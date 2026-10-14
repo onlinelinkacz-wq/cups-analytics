@@ -1,0 +1,1001 @@
+﻿customer_id,first_name,last_name,gender,age_group,persona,platform,phone_masked,signup_date,home_cafe_id,home_district,segment
+C0001,Richard,Hrubý,M,45–54,kancelář – oběd,web,+420 7** *** 752,2026-09-26,miners-maj,Praha 1,vracející se
+C0002,Gabriela,Růžičková,Ž,18–24,student,iOS aplikace,+420 6** *** 974,2026-06-08,basics-palladium-minus2,Praha 1,vracející se
+C0003,Monika,Doležalová,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 296,2026-08-26,la-terra-coffee,Praha 2,vracející se
+C0004,Nikola,Burešová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 246,2026-09-28,cafe-jen,Praha 10,jednorázový
+C0005,Jan,Pokorný,M,25–34,ranní dojíždějící,web,+420 6** *** 947,2026-09-20,la-terra-coffee,Praha 2,jednorázový
+C0006,Julie,Pospíšilová,Ž,25–34,kancelář – oběd,web,+420 6** *** 497,2026-07-09,miners-roastery,Praha 8,vracející se
+C0007,Jana,Urbanová,Ž,45–54,odpolední pauza,web,+420 7** *** 530,2026-05-01,coffee-source,Praha 2,vracející se
+C0008,Michaela,Matoušková,Ž,25–34,student,web,+420 6** *** 180,2026-09-09,proste-kafe,Praha 10,jednorázový
+C0009,Vít,Bednář,M,35–44,kancelář – oběd,web,+420 6** *** 448,2026-09-17,basics-palladium-minus2,Praha 1,jednorázový
+C0010,Jakub,Valenta,M,25–34,ranní dojíždějící,web,+420 6** *** 401,2026-07-20,miners-florentium,Praha 1,vracející se
+C0011,Kryštof,Bednář,M,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 667,2026-07-23,cafe-neustadt,Praha 2,vracející se
+C0012,Martin,Blažek,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 170,2026-09-04,miners-port7,Praha 7,vracející se
+C0013,Linda,Doležalová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 951,2026-07-13,coffee-room,Praha 2,vracející se
+C0014,Anna,Malá,Ž,18–24,student,iOS aplikace,+420 7** *** 799,2026-04-18,miners-karlin,Praha 8,vracející se
+C0015,Bára,Fialová,Ž,18–24,student,web,+420 7** *** 273,2026-10-03,kaaba,Praha 2,jednorázový
+C0016,Lukáš,Černý,M,25–34,student,web,+420 6** *** 893,2026-04-30,miners-letna,Praha 7,vracející se
+C0017,Vít,Vrba,M,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 077,2026-08-05,ema-espresso,Praha 1,vracející se
+C0018,Richard,Vaněk,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 183,2026-08-19,miners-komunardu,Praha 7,jednorázový
+C0019,Jana,Pokorná,Ž,18–24,student,iOS aplikace,+420 7** *** 178,2026-09-29,miners-karlin,Praha 8,jednorázový
+C0020,Ema,Lukášová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 573,2026-07-06,miners-borislavka,Praha 6,vracející se
+C0021,Karolína,Vaněková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 170,2026-07-19,miners-charles-bridge,Praha 1,vracející se
+C0022,Hynek,Dušek,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 229,2026-08-09,mamacoffee-londynska,Praha 2,vracející se
+C0023,Adam,Bartoš,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 705,2026-09-03,ala-coffee,Praha 9,jednorázový
+C0024,Stanislav,Matoušek,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 600,2026-08-14,miners-komunardu,Praha 7,jednorázový
+C0025,Štěpán,Vrba,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 225,2026-07-06,zrno-zrnko,Praha 5,vracející se
+C0026,Sára,Dušková,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 018,2026-10-02,kafe-karlin,Praha 8,jednorázový
+C0027,Jakub,Janda,M,45–54,víkendový brunch,web,+420 7** *** 551,2026-07-25,miners-port7,Praha 7,vracející se
+C0028,Barbora,Křížová,Ž,18–24,odpolední pauza,web,+420 7** *** 988,2026-10-04,miners-jzp,Praha 2,vracející se
+C0029,Aneta,Soukupová,Ž,18–24,student,iOS aplikace,+420 7** *** 026,2026-06-08,miners-borislavka,Praha 6,vracející se
+C0030,Adéla,Dvořáková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 155,2026-05-18,miners-old-town,Praha 1,vracející se
+C0031,Rozálie,Sýkorová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 996,2026-08-27,miners-bakery,Praha 8,jednorázový
+C0032,Rozálie,Burešová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 171,2026-08-07,miners-port7,Praha 7,vracející se
+C0033,Adéla,Pokorná,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 743,2026-05-05,zrno-zrnko,Praha 5,vracející se
+C0034,Jan,Marek,M,18–24,student,web,+420 6** *** 972,2026-08-05,espressocono,Praha 3,vracející se
+C0035,Štěpán,Soukup,M,18–24,student,web,+420 7** *** 926,2026-10-06,cafe-nezisk-mamacoffee-pohorelec,Praha 1,vracející se
+C0036,Martin,Ševčík,M,45–54,odpolední pauza,iOS aplikace,+420 6** *** 618,2026-09-30,miners-charles-bridge,Praha 1,jednorázový
+C0037,Pavel,Bartoš,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 112,2026-05-14,miners-florentium,Praha 1,vracející se
+C0038,Anna,Pospíšilová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 061,2026-06-21,miners-karlin,Praha 8,vracející se
+C0039,Pavla,Němcová,Ž,18–24,student,iOS aplikace,+420 7** *** 144,2026-10-06,miners-borislavka,Praha 6,vracející se
+C0040,Sebastian,Šťastný,M,25–34,odpolední pauza,web,+420 7** *** 012,2026-05-10,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0041,Vendula,Vávrová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 262,2026-08-01,miners-komunardu,Praha 7,vracející se
+C0042,Marie,Charvátová,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 256,2026-04-26,basics-palladium-plus2,Praha 1,vracející se
+C0043,Zuzana,Tichá,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 112,2026-10-10,kafe-francin,Praha 7,jednorázový
+C0044,Monika,Zemanová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 997,2026-09-25,basics-palladium-minus2,Praha 1,vracející se
+C0045,Hana,Žáková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 951,2026-04-29,basics-borislavka,Praha 6,vracející se
+C0046,Ivana,Vávrová,Ž,18–24,odpolední pauza,iOS aplikace,+420 6** *** 266,2026-05-13,basics-palladium-plus2,Praha 1,vracející se
+C0047,Markéta,Zelenková,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 520,2026-09-14,miners-old-town,Praha 1,vracející se
+C0048,Václav,Soukup,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 230,2026-09-17,ema-komunardu,Praha 7,jednorázový
+C0049,Klára,Lukášová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 532,2026-05-13,mamacoffee-londynska,Praha 2,vracející se
+C0050,Julie,Marešová,Ž,18–24,odpolední pauza,iOS aplikace,+420 6** *** 945,2026-09-19,miners-maj,Praha 1,jednorázový
+C0051,Monika,Pokorná,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 212,2026-06-12,miners-old-town,Praha 1,vracející se
+C0052,Štěpán,Horák,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 903,2026-09-12,ebel-coffee-farm,Praha 1,jednorázový
+C0053,Linda,Moravcová,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 049,2026-07-16,cafe-ebel-kaprova,Praha 1,vracející se
+C0054,Vendula,Machová,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 593,2026-09-22,miners-port7,Praha 7,vracející se
+C0055,Ivana,Svobodová,Ž,25–34,student,web,+420 7** *** 709,2026-08-28,miners-jzp,Praha 2,vracející se
+C0056,Ivana,Žáková,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 891,2026-09-19,miners-old-town,Praha 1,vracející se
+C0057,Mikuláš,Horák,M,35–44,kancelář – oběd,web,+420 7** *** 966,2026-10-06,cafe-neustadt,Praha 2,vracející se
+C0058,Zdeněk,Fiala,M,25–34,ranní dojíždějící,web,+420 7** *** 732,2026-09-22,bakeshop,Praha 1,jednorázový
+C0059,Klára,Burešová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 940,2026-09-22,miners-jzp,Praha 2,jednorázový
+C0060,Linda,Šťastná,Ž,18–24,student,web,+420 7** *** 583,2026-05-17,i-need-coffee,Praha 2,vracející se
+C0061,Milan,Vrba,M,18–24,student,web,+420 6** *** 572,2026-05-13,one-sip-coffee,Praha 1,vracející se
+C0062,Radek,Zelenka,M,18–24,student,iOS aplikace,+420 6** *** 672,2026-09-09,ema-svetova,Praha 8,jednorázový
+C0063,Tadeáš,Kubíček,M,35–44,kancelář – oběd,web,+420 7** *** 609,2026-09-26,ebel-coffee-farm,Praha 1,vracející se
+C0064,Eva,Čermáková,Ž,18–24,student,iOS aplikace,+420 7** *** 512,2026-06-23,miners-jzp,Praha 2,vracející se
+C0065,David,Doležal,M,25–34,ranní dojíždějící,web,+420 6** *** 082,2026-09-07,ema-espresso,Praha 1,vracející se
+C0066,Daniela,Navrátilová,Ž,18–24,odpolední pauza,web,+420 7** *** 232,2026-04-29,ema-espresso,Praha 1,vracející se
+C0067,Jaroslav,Kašpar,M,18–24,student,iOS aplikace,+420 6** *** 580,2026-08-23,kavarna-slavia,Praha 1,jednorázový
+C0068,Tadeáš,Šindelář,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 371,2026-07-02,cafe-nezisk-mamacoffee-pohorelec,Praha 1,vracející se
+C0069,Šimon,Růžička,M,18–24,student,iOS aplikace,+420 7** *** 523,2026-08-23,basics-palladium-minus2,Praha 1,vracející se
+C0070,Lenka,Horová,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 519,2026-08-27,miners-jzp,Praha 2,vracející se
+C0071,Monika,Procházková,Ž,18–24,student,web,+420 7** *** 344,2026-09-18,basics-palladium-minus2,Praha 1,vracející se
+C0072,Vladimír,Procházka,M,25–34,ranní dojíždějící,web,+420 7** *** 648,2026-06-17,prosekarna,Praha 2,vracející se
+C0073,Jana,Svobodová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 528,2026-08-03,ema-espresso,Praha 1,vracející se
+C0074,Aneta,Kučerová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 790,2026-08-28,miners-victoria-palace,Praha 6,vracející se
+C0075,Alžběta,Horová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 946,2026-07-06,atomic-matcha,Praha 8,vracející se
+C0076,Marie,Veselá,Ž,25–34,student,web,+420 6** *** 418,2026-10-06,miners-jzp,Praha 2,vracející se
+C0077,Linda,Němcová,Ž,18–24,student,web,+420 7** *** 503,2026-04-26,miners-old-town,Praha 1,vracející se
+C0078,Ondřej,Brabec,M,18–24,student,web,+420 6** *** 775,2026-06-11,proste-kafe,Praha 10,vracející se
+C0079,Martin,Novotný,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 459,2026-10-02,misto,Praha 6,vracející se
+C0080,Karel,Vrba,M,18–24,ranní dojíždějící,web,+420 6** *** 493,2026-08-01,miners-maj,Praha 1,vracející se
+C0081,Iveta,Novotná,Ž,25–34,ranní dojíždějící,web,+420 6** *** 301,2026-09-22,one-sip-coffee,Praha 1,vracející se
+C0082,Dominika,Zemanová,Ž,25–34,student,iOS aplikace,+420 7** *** 790,2026-07-11,miners-komunardu,Praha 7,vracející se
+C0083,Bára,Malá,Ž,18–24,ranní dojíždějící,web,+420 6** *** 231,2026-06-18,miners-port7,Praha 7,vracející se
+C0084,Klára,Šindelářová,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 537,2026-09-13,misto,Praha 6,jednorázový
+C0085,Pavel,Šťastný,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 018,2026-09-22,miners-port7,Praha 7,vracející se
+C0086,Kryštof,Žák,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 323,2026-09-05,kafemat,Praha 6,jednorázový
+C0087,Simona,Musilová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 582,2026-08-31,miners-roastery,Praha 8,jednorázový
+C0088,Magdaléna,Ševčíková,Ž,18–24,student,iOS aplikace,+420 7** *** 549,2026-09-11,mamacoffee-londynska,Praha 2,jednorázový
+C0089,Vojtěch,Valenta,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 923,2026-10-03,miners-letna,Praha 7,vracející se
+C0090,Linda,Jandová,Ž,25–34,odpolední pauza,web,+420 7** *** 711,2026-09-02,bakeshop,Praha 1,vracející se
+C0091,Šárka,Vávrová,Ž,45–54,ranní dojíždějící,web,+420 6** *** 140,2026-08-27,miners-jzp,Praha 2,vracející se
+C0092,David,Vaněk,M,25–34,student,iOS aplikace,+420 6** *** 937,2026-10-07,miners-victoria-palace,Praha 6,vracející se
+C0093,Martina,Machová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 941,2026-10-10,miners-florentium,Praha 1,jednorázový
+C0094,Martina,Sýkorová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 405,2026-10-06,objekt-kafe,Praha 1,vracející se
+C0095,Jakub,Beneš,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 580,2026-09-13,miners-bakery,Praha 8,vracející se
+C0096,Linda,Tichá,Ž,35–44,ranní dojíždějící,web,+420 7** *** 540,2026-08-21,kafe-karlin,Praha 8,jednorázový
+C0097,Veronika,Kovářová,Ž,18–24,student,iOS aplikace,+420 7** *** 632,2026-09-05,cafe-nezisk-mamacoffee-pohorelec,Praha 1,jednorázový
+C0098,Šimon,Skála,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 414,2026-10-04,miners-karlin,Praha 8,jednorázový
+C0099,Bára,Nováková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 300,2026-09-27,miners-borislavka,Praha 6,jednorázový
+C0100,Dominika,Poláková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 991,2026-10-06,prazirna,Praha 2,vracející se
+C0101,Milan,Bureš,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 564,2026-05-25,miners-port7,Praha 7,vracející se
+C0102,Klára,Němcová,Ž,35–44,kancelář – oběd,web,+420 6** *** 169,2026-05-21,kafe-v-klidu,Praha 1,vracející se
+C0103,Michaela,Sedláčková,Ž,35–44,kancelář – oběd,web,+420 6** *** 298,2026-09-02,bitcoin-coffee,Praha 7,vracející se
+C0104,Zdeňka,Šťastná,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 963,2026-09-07,bakeshop,Praha 1,jednorázový
+C0105,Adam,Žák,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 170,2026-08-29,basics-palladium-plus2,Praha 1,jednorázový
+C0106,Monika,Hájková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 259,2026-08-08,miners-port7,Praha 7,vracející se
+C0107,Stanislav,Řezníček,M,25–34,kancelář – oběd,web,+420 6** *** 475,2026-09-05,miners-jzp,Praha 2,jednorázový
+C0108,Monika,Novotná,Ž,25–34,odpolední pauza,web,+420 7** *** 568,2026-09-01,miners-churchill,Praha 2,jednorázový
+C0109,Iveta,Zemanová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 989,2026-09-08,miners-maj,Praha 1,jednorázový
+C0110,Nela,Matoušková,Ž,45–54,víkendový brunch,iOS aplikace,+420 6** *** 570,2026-08-23,coffee-room,Praha 2,jednorázový
+C0111,Kateřina,Dostálová,Ž,18–24,student,iOS aplikace,+420 6** *** 795,2026-08-08,kavarna-slavia,Praha 1,vracející se
+C0112,Magdaléna,Kašparová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 537,2026-06-29,kofarna-cafe,Praha 5,vracející se
+C0113,Jindřich,Pavlík,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 749,2026-09-08,kafe-v-klidu,Praha 1,vracející se
+C0114,Radek,Urban,M,18–24,odpolední pauza,web,+420 7** *** 470,2026-10-01,cafe-neustadt,Praha 2,jednorázový
+C0115,Iveta,Svobodová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 722,2026-09-09,kafe-v-klidu,Praha 1,jednorázový
+C0116,Štěpán,Matoušek,M,18–24,student,iOS aplikace,+420 6** *** 211,2026-04-30,miners-florentium,Praha 1,vracející se
+C0117,David,Šimek,M,25–34,kancelář – oběd,web,+420 6** *** 984,2026-09-23,miners-komunardu,Praha 7,vracející se
+C0118,Eliška,Štěpánková,Ž,45–54,víkendový brunch,iOS aplikace,+420 6** *** 607,2026-10-05,miners-port7,Praha 7,jednorázový
+C0119,Igor,Zelenka,M,18–24,ranní dojíždějící,web,+420 7** *** 230,2026-09-17,miners-port7,Praha 7,jednorázový
+C0120,Kamila,Navrátilová,Ž,35–44,kancelář – oběd,web,+420 7** *** 750,2026-09-10,loka-doubleshot,Praha 1,jednorázový
+C0121,Veronika,Tichá,Ž,18–24,student,iOS aplikace,+420 7** *** 013,2026-06-23,miners-jzp,Praha 2,vracející se
+C0122,Adéla,Marešová,Ž,18–24,student,web,+420 6** *** 554,2026-05-15,miners-churchill,Praha 2,vracející se
+C0123,Lucie,Jandová,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 103,2026-10-04,cafeidoskop,Praha 1,vracející se
+C0124,Daniela,Kašparová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 142,2026-09-30,dobra-trafika,Praha 1,vracející se
+C0125,Radka,Vaněková,Ž,25–34,víkendový brunch,web,+420 7** *** 629,2026-05-04,miners-maj,Praha 1,vracející se
+C0126,Gabriela,Zelenková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 431,2026-09-02,ema-komunardu,Praha 7,vracející se
+C0127,Richard,Černý,M,25–34,kancelář – oběd,web,+420 7** *** 770,2026-09-15,ema-espresso,Praha 1,vracející se
+C0128,Denis,Vrba,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 081,2026-10-05,miners-old-town,Praha 1,jednorázový
+C0129,Hynek,Král,M,25–34,odpolední pauza,web,+420 6** *** 524,2026-10-06,miners-old-town,Praha 1,vracející se
+C0130,Bára,Horová,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 560,2026-08-05,kafe-karlin,Praha 8,vracející se
+C0131,Kristýna,Svobodová,Ž,55+,víkendový brunch,web,+420 7** *** 571,2026-05-10,cafe-ebel-kaprova,Praha 1,vracející se
+C0132,Roman,Štěpánek,M,35–44,kancelář – oběd,web,+420 6** *** 485,2026-09-01,ema-svetova,Praha 8,vracející se
+C0133,Gabriela,Sedláčková,Ž,45–54,víkendový brunch,iOS aplikace,+420 6** *** 298,2026-09-13,basics-palladium-minus2,Praha 1,jednorázový
+C0134,Vojtěch,Marek,M,18–24,student,web,+420 6** *** 446,2026-07-05,miners-letna,Praha 7,vracející se
+C0135,Monika,Musilová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 744,2026-08-30,kafemat,Praha 6,jednorázový
+C0136,Klára,Machová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 6** *** 334,2026-07-09,loka-doubleshot,Praha 1,vracející se
+C0137,Viktorie,Zemanová,Ž,35–44,kancelář – oběd,web,+420 7** *** 451,2026-09-27,miners-victoria-palace,Praha 6,jednorázový
+C0138,Barbora,Mašková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 437,2026-07-22,miners-jzp,Praha 2,vracející se
+C0139,Iveta,Brabcová,Ž,18–24,student,web,+420 7** *** 113,2026-08-21,ippa-cafe,Praha 6,jednorázový
+C0140,Nikola,Kadlcová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 152,2026-07-27,light-roast,Praha 8,vracející se
+C0141,Marek,Veselý,M,55+,odpolední pauza,web,+420 7** *** 911,2026-07-06,basics-borislavka,Praha 6,vracející se
+C0142,Václav,Musil,M,55+,odpolední pauza,web,+420 7** *** 495,2026-09-10,basics-borislavka,Praha 6,vracející se
+C0143,Daniel,Bednář,M,18–24,student,iOS aplikace,+420 7** *** 011,2026-09-06,cafeidoskop,Praha 1,vracející se
+C0144,Anna,Poláková,Ž,25–34,víkendový brunch,web,+420 6** *** 529,2026-09-26,miners-letna,Praha 7,vracející se
+C0145,Vít,Řezníček,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 677,2026-07-26,kolektor-cafe,Praha 7,vracející se
+C0146,Jindřich,Vlček,M,35–44,ranní dojíždějící,web,+420 7** *** 887,2026-09-22,miners-charles-bridge,Praha 1,jednorázový
+C0147,Ondřej,Kašpar,M,35–44,víkendový brunch,web,+420 7** *** 904,2026-08-21,prazirna,Praha 2,vracející se
+C0148,Viktor,Kadlec,M,35–44,kancelář – oběd,web,+420 6** *** 884,2026-06-02,basics-palladium-minus2,Praha 1,vracející se
+C0149,Josef,Skála,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 086,2026-05-13,mamacoffee-podolska,Praha 4,vracející se
+C0150,Simona,Čermáková,Ž,18–24,student,iOS aplikace,+420 6** *** 880,2026-09-10,basics-palladium-minus2,Praha 1,vracející se
+C0151,Dominika,Šindelářová,Ž,18–24,odpolední pauza,web,+420 7** *** 903,2026-08-28,industra-holesovice,Praha 7,vracející se
+C0152,Pavel,Bureš,M,35–44,kancelář – oběd,web,+420 6** *** 795,2026-09-08,miners-letna,Praha 7,jednorázový
+C0153,Lukáš,Zelenka,M,45–54,odpolední pauza,iOS aplikace,+420 7** *** 921,2026-05-05,barry-higgel-coffeehouse,Praha 7,vracející se
+C0154,Matyáš,Kadlec,M,18–24,student,iOS aplikace,+420 6** *** 634,2026-08-29,miners-maj,Praha 1,jednorázový
+C0155,Denis,Dvořák,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 113,2026-09-01,ema-espresso,Praha 1,vracející se
+C0156,Adéla,Zelenková,Ž,18–24,student,iOS aplikace,+420 7** *** 438,2026-05-30,cheecup,Praha 4,vracející se
+C0157,Antonín,Jelínek,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 201,2026-09-15,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0158,Robert,Žák,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 636,2026-07-18,ema-komunardu,Praha 7,vracející se
+C0159,Monika,Jandová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 579,2026-09-30,miners-churchill,Praha 2,vracející se
+C0160,Lukáš,Hruška,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 291,2026-07-04,miners-karlin,Praha 8,vracející se
+C0161,Kamila,Marešová,Ž,45–54,ranní dojíždějící,web,+420 6** *** 688,2026-09-27,mamacoffee-londynska,Praha 2,vracející se
+C0162,Kamila,Horová,Ž,18–24,student,web,+420 6** *** 519,2026-08-31,miners-jzp,Praha 2,vracející se
+C0163,Vladimír,Král,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 530,2026-04-23,ema-komunardu,Praha 7,vracející se
+C0164,Ondřej,Hanák,M,25–34,odpolední pauza,web,+420 7** *** 700,2026-09-14,bakeshop,Praha 1,vracející se
+C0165,Zuzana,Ševčíková,Ž,25–34,kancelář – oběd,web,+420 7** *** 980,2026-05-03,moment-cafe,Praha 2,vracející se
+C0166,Patrik,Horák,M,25–34,ranní dojíždějící,web,+420 6** *** 942,2026-09-02,basics-borislavka,Praha 6,jednorázový
+C0167,Libor,Mašek,M,45–54,víkendový brunch,iOS aplikace,+420 7** *** 762,2026-04-24,miners-borislavka,Praha 6,vracející se
+C0168,Vendula,Růžičková,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 812,2026-07-02,miners-karlin,Praha 8,vracející se
+C0169,Matyáš,Janda,M,18–24,student,web,+420 6** *** 231,2026-09-22,coffee-room,Praha 2,jednorázový
+C0170,Zdeňka,Horáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 934,2026-07-24,miners-florentium,Praha 1,vracející se
+C0171,Vojtěch,Svoboda,M,25–34,ranní dojíždějící,web,+420 6** *** 297,2026-05-26,loka-doubleshot,Praha 1,vracející se
+C0172,Radka,Musilová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 248,2026-06-10,miners-florentium,Praha 1,vracející se
+C0173,Tereza,Jandová,Ž,18–24,student,iOS aplikace,+420 7** *** 135,2026-09-15,cafe-peron,Praha 5,vracející se
+C0174,Matyáš,Řezníček,M,35–44,kancelář – oběd,web,+420 6** *** 379,2026-09-17,kafe-v-klidu,Praha 1,vracející se
+C0175,Tadeáš,Jelínek,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 246,2026-08-22,miners-jzp,Praha 2,vracející se
+C0176,Miroslav,Vrba,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 264,2026-04-20,bitcoin-coffee,Praha 7,vracející se
+C0177,Pavla,Žáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 842,2026-05-21,miners-maj,Praha 1,vracející se
+C0178,Dominika,Vaněková,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 268,2026-08-01,ema-espresso,Praha 1,vracející se
+C0179,Ladislav,Vaněk,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 473,2026-09-27,loka-doubleshot,Praha 1,vracející se
+C0180,Petr,Mach,M,18–24,student,iOS aplikace,+420 6** *** 344,2026-09-27,basics-palladium-minus2,Praha 1,vracející se
+C0181,Kryštof,Soukup,M,25–34,kancelář – oběd,web,+420 7** *** 068,2026-04-22,cafe-neustadt,Praha 2,vracející se
+C0182,Johana,Růžičková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 990,2026-08-15,mamacoffee-podolska,Praha 4,vracející se
+C0183,Anna,Valentová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 048,2026-10-06,miners-bakery,Praha 8,vracející se
+C0184,Sebastian,Kadlec,M,35–44,kancelář – oběd,web,+420 7** *** 206,2026-09-22,monolok,Praha 2,jednorázový
+C0185,Roman,Zeman,M,18–24,odpolední pauza,iOS aplikace,+420 6** *** 862,2026-09-24,kafe-francin,Praha 7,vracející se
+C0186,Julie,Hrušková,Ž,18–24,student,iOS aplikace,+420 6** *** 245,2026-08-28,miners-jzp,Praha 2,vracející se
+C0187,Aleš,Svoboda,M,18–24,student,iOS aplikace,+420 6** *** 796,2026-09-08,elvira-cafe,Praha 5,jednorázový
+C0188,Milan,Polák,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 812,2026-07-02,miners-maj,Praha 1,vracející se
+C0189,Mikuláš,Zelenka,M,45–54,ranní dojíždějící,web,+420 6** *** 175,2026-09-26,kolektor-cafe,Praha 7,vracející se
+C0190,Šimon,Tichý,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 329,2026-04-29,ema-krizikova,Praha 8,vracející se
+C0191,Adéla,Kovářová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 651,2026-09-08,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0192,Mikuláš,Hanák,M,18–24,student,iOS aplikace,+420 6** *** 462,2026-07-05,miners-maj,Praha 1,vracející se
+C0193,Matěj,Hanák,M,18–24,ranní dojíždějící,web,+420 7** *** 964,2026-10-06,atomic-matcha,Praha 8,vracející se
+C0194,Simona,Kopecká,Ž,18–24,student,iOS aplikace,+420 7** *** 891,2026-05-28,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0195,Tomáš,Zelenka,M,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 320,2026-07-16,miners-bakery,Praha 8,vracející se
+C0196,Ladislav,Horák,M,55+,víkendový brunch,web,+420 6** *** 544,2026-09-22,miners-karlin,Praha 8,vracející se
+C0197,Linda,Ševčíková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 198,2026-09-07,loka-doubleshot,Praha 1,jednorázový
+C0198,Matěj,Vávra,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 070,2026-06-16,basics-borislavka,Praha 6,vracející se
+C0199,David,Marek,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 621,2026-07-04,miners-port7,Praha 7,vracející se
+C0200,Zuzana,Zemanová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 179,2026-06-06,miners-karlin,Praha 8,vracející se
+C0201,Johana,Králová,Ž,25–34,kancelář – oběd,web,+420 7** *** 668,2026-05-22,miners-bakery,Praha 8,vracející se
+C0202,Linda,Zelenková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 596,2026-05-15,mamacoffee-podolska,Praha 4,vracející se
+C0203,Václav,Novotný,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 108,2026-08-24,cafe-ebel-kaprova,Praha 1,vracející se
+C0204,Vendula,Němcová,Ž,18–24,student,web,+420 7** *** 265,2026-05-10,basics-palladium-minus2,Praha 1,vracející se
+C0205,Sára,Hrušková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 282,2026-10-06,bitcoin-coffee,Praha 7,jednorázový
+C0206,Julie,Bednářová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 273,2026-09-16,ema-komunardu,Praha 7,vracející se
+C0207,Vojtěch,Procházka,M,55+,odpolední pauza,iOS aplikace,+420 7** *** 514,2026-07-17,miners-letna,Praha 7,vracející se
+C0208,Dominik,Veselý,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 869,2026-06-23,miners-komunardu,Praha 7,vracející se
+C0209,Zdeňka,Kolářová,Ž,35–44,víkendový brunch,web,+420 7** *** 276,2026-09-24,ema-espresso,Praha 1,vracející se
+C0210,Pavla,Hájková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 793,2026-08-29,miners-churchill,Praha 2,vracející se
+C0211,Magdaléna,Kolářová,Ž,18–24,student,iOS aplikace,+420 7** *** 733,2026-10-04,miners-komunardu,Praha 7,vracející se
+C0212,Miroslav,Štěpánek,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 975,2026-04-16,21-coffee,Praha 1,vracející se
+C0213,Vendula,Pospíšilová,Ž,45–54,kancelář – oběd,web,+420 6** *** 419,2026-10-12,miners-roastery,Praha 8,jednorázový
+C0214,Vojtěch,Šindelář,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 931,2026-04-23,miners-charles-bridge,Praha 1,vracející se
+C0215,Veronika,Říhová,Ž,45–54,víkendový brunch,web,+420 6** *** 008,2026-07-09,miners-letna,Praha 7,vracející se
+C0216,Tadeáš,Vávra,M,18–24,student,iOS aplikace,+420 7** *** 159,2026-06-21,old-town-espresso,Praha 1,vracející se
+C0217,Jindřich,Brabec,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 196,2026-06-11,ema-komunardu,Praha 7,vracející se
+C0218,Zdeňka,Čermáková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 699,2026-09-15,ema-svetova,Praha 8,vracející se
+C0219,Tereza,Králová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 219,2026-06-08,miners-florentium,Praha 1,vracející se
+C0220,Lucie,Vrbová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 439,2026-08-28,miners-letna,Praha 7,jednorázový
+C0221,Václav,Svoboda,M,18–24,student,iOS aplikace,+420 7** *** 896,2026-05-07,miners-karlin,Praha 8,vracející se
+C0222,Dominik,Pavlík,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 876,2026-09-06,kafemat,Praha 6,jednorázový
+C0223,Marie,Němcová,Ž,25–34,víkendový brunch,web,+420 7** *** 807,2026-06-18,miners-churchill,Praha 2,vracející se
+C0224,Marek,Novotný,M,25–34,víkendový brunch,web,+420 7** *** 826,2026-05-30,ema-krizikova,Praha 8,vracející se
+C0225,Mikuláš,Pavlík,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 464,2026-09-25,misto,Praha 6,vracející se
+C0226,Jan,Bednář,M,18–24,student,iOS aplikace,+420 7** *** 413,2026-08-23,cafe-perfect-day,Praha 6,vracející se
+C0227,Jan,Šimek,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 998,2026-08-20,prosekarna,Praha 2,jednorázový
+C0228,Vendula,Štěpánková,Ž,18–24,student,web,+420 7** *** 937,2026-08-31,miners-maj,Praha 1,vracející se
+C0229,Matěj,Urban,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 034,2026-09-19,miners-churchill,Praha 2,vracející se
+C0230,Sára,Jelínková,Ž,25–34,student,web,+420 7** *** 619,2026-09-13,basics-palladium-plus2,Praha 1,jednorázový
+C0231,Natálie,Urbanová,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 821,2026-10-01,miners-florentium,Praha 1,vracející se
+C0232,Josef,Polák,M,18–24,student,iOS aplikace,+420 7** *** 530,2026-08-22,loka-doubleshot,Praha 1,jednorázový
+C0233,Nikola,Marešová,Ž,25–34,kancelář – oběd,web,+420 6** *** 482,2026-10-06,cafe-neustadt,Praha 2,vracející se
+C0234,Karel,Černý,M,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 090,2026-06-11,miners-karlin,Praha 8,vracející se
+C0235,Petra,Marková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 947,2026-10-01,la-boheme-cafe,Praha 2,vracející se
+C0236,Jana,Doležalová,Ž,35–44,víkendový brunch,web,+420 6** *** 782,2026-05-26,miners-letna,Praha 7,vracející se
+C0237,Vít,Mareš,M,35–44,kancelář – oběd,web,+420 7** *** 060,2026-07-27,miners-karlin,Praha 8,vracející se
+C0238,Johana,Konečná,Ž,25–34,student,web,+420 6** *** 735,2026-09-05,miners-charles-bridge,Praha 1,vracející se
+C0239,Richard,Sedláček,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 924,2026-09-01,basics-palladium-plus2,Praha 1,jednorázový
+C0240,Viktorie,Navrátilová,Ž,25–34,student,web,+420 6** *** 079,2026-07-26,kolektor-cafe,Praha 7,vracející se
+C0241,Vendula,Musilová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 206,2026-09-13,cafe-ebel-kaprova,Praha 1,vracející se
+C0242,Barbora,Hájková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 598,2026-09-14,cafe-tone,Praha 5,jednorázový
+C0243,Igor,Kučera,M,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 915,2026-08-28,miners-komunardu,Praha 7,jednorázový
+C0244,Pavel,Mach,M,18–24,ranní dojíždějící,web,+420 6** *** 385,2026-09-27,basics-palladium-plus2,Praha 1,vracející se
+C0245,Petra,Svobodová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 656,2026-05-17,ema-krizikova,Praha 8,vracející se
+C0246,Štěpán,Hájek,M,18–24,student,iOS aplikace,+420 6** *** 158,2026-09-02,ema-krizikova,Praha 8,jednorázový
+C0247,Jaroslav,Zeman,M,25–34,ranní dojíždějící,web,+420 6** *** 906,2026-10-06,miners-jzp,Praha 2,vracející se
+C0248,Lucie,Burešová,Ž,25–34,víkendový brunch,web,+420 6** *** 697,2026-09-25,ema-espresso,Praha 1,vracející se
+C0249,Simona,Kadlcová,Ž,18–24,ranní dojíždějící,web,+420 6** *** 198,2026-08-31,miners-komunardu,Praha 7,jednorázový
+C0250,Adéla,Mašková,Ž,25–34,kancelář – oběd,web,+420 7** *** 818,2026-05-22,kafe-karlin,Praha 8,vracející se
+C0251,Pavel,Polák,M,18–24,ranní dojíždějící,web,+420 6** *** 249,2026-04-30,roasters-hub,Praha 1,vracející se
+C0252,Adéla,Marková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 755,2026-07-01,miners-charles-bridge,Praha 1,vracející se
+C0253,Vít,Brabec,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 677,2026-04-16,basics-palladium-plus2,Praha 1,vracející se
+C0254,Iveta,Štěpánková,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 354,2026-08-04,21-coffee,Praha 1,vracející se
+C0255,Ladislav,Havlíček,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 247,2026-07-08,kavarna-slavia,Praha 1,vracející se
+C0256,Lenka,Fialová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 922,2026-10-06,ema-krizikova,Praha 8,vracející se
+C0257,Lukáš,Ševčík,M,25–34,ranní dojíždějící,web,+420 7** *** 649,2026-09-08,cafe-nezisk-mamacoffee-pohorelec,Praha 1,vracející se
+C0258,Marie,Hrubá,Ž,18–24,student,iOS aplikace,+420 7** *** 121,2026-09-30,kafe-karlin,Praha 8,vracející se
+C0259,Daniel,Kolář,M,25–34,ranní dojíždějící,web,+420 7** *** 961,2026-10-04,mamacoffee-londynska,Praha 2,vracející se
+C0260,Vendula,Burešová,Ž,25–34,student,iOS aplikace,+420 7** *** 273,2026-09-02,ema-svetova,Praha 8,jednorázový
+C0261,Markéta,Svobodová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 944,2026-09-20,miners-churchill,Praha 2,vracející se
+C0262,Zdeněk,Kubíček,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 783,2026-04-17,version,Praha 2,vracející se
+C0263,Iveta,Vávrová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 049,2026-07-14,ema-svetova,Praha 8,vracející se
+C0264,Daniel,Lukáš,M,35–44,víkendový brunch,web,+420 7** *** 178,2026-08-25,miners-komunardu,Praha 7,jednorázový
+C0265,Lenka,Řezníčková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 611,2026-09-25,miners-old-town,Praha 1,vracející se
+C0266,Zdeňka,Brabcová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 746,2026-04-26,miners-old-town,Praha 1,vracející se
+C0267,Nela,Vlčková,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 910,2026-09-26,basics-palladium-plus2,Praha 1,vracející se
+C0268,Libor,Pospíšil,M,35–44,víkendový brunch,iOS aplikace,+420 7** *** 754,2026-06-20,miners-karlin,Praha 8,vracející se
+C0269,Vendula,Kašparová,Ž,45–54,ranní dojíždějící,web,+420 6** *** 500,2026-08-14,miners-komunardu,Praha 7,jednorázový
+C0270,Magdaléna,Čermáková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 909,2026-09-12,miners-letna,Praha 7,vracející se
+C0271,Kristýna,Štěpánková,Ž,25–34,kancelář – oběd,web,+420 7** *** 977,2026-08-31,miners-port7,Praha 7,vracející se
+C0272,Dominik,Žák,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 202,2026-09-22,miners-port7,Praha 7,jednorázový
+C0273,Robert,Polák,M,25–34,ranní dojíždějící,web,+420 6** *** 443,2026-05-16,miners-old-town,Praha 1,vracející se
+C0274,Libor,Bureš,M,18–24,student,web,+420 7** *** 046,2026-09-29,miners-maj,Praha 1,vracející se
+C0275,Klára,Havlíčková,Ž,35–44,ranní dojíždějící,web,+420 7** *** 177,2026-09-11,miners-jzp,Praha 2,vracející se
+C0276,Adam,Kadlec,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 382,2026-06-26,periferie-cafe,Praha 4,vracející se
+C0277,Sebastian,Vaněk,M,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 112,2026-09-21,basics-palladium-minus2,Praha 1,jednorázový
+C0278,Vít,Štěpánek,M,25–34,ranní dojíždějící,web,+420 6** *** 265,2026-06-27,miners-borislavka,Praha 6,vracející se
+C0279,Petra,Havlíčková,Ž,25–34,student,iOS aplikace,+420 6** *** 593,2026-09-22,kafe-karlin,Praha 8,vracející se
+C0280,Sára,Jandová,Ž,18–24,student,iOS aplikace,+420 7** *** 847,2026-08-16,miners-old-town,Praha 1,jednorázový
+C0281,Tereza,Machová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 919,2026-09-06,miners-komunardu,Praha 7,jednorázový
+C0282,Roman,Kříž,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 404,2026-09-28,miners-maj,Praha 1,vracející se
+C0283,Roman,Vávra,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 745,2026-09-29,basics-palladium-plus2,Praha 1,vracející se
+C0284,Zdeněk,Mašek,M,35–44,ranní dojíždějící,web,+420 6** *** 260,2026-04-25,monolok,Praha 2,vracející se
+C0285,Ema,Urbanová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 732,2026-10-06,miners-old-town,Praha 1,vracející se
+C0286,Adéla,Pavlíková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 704,2026-04-29,industra-holesovice,Praha 7,vracející se
+C0287,Hana,Sýkorová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 554,2026-09-06,misto,Praha 6,jednorázový
+C0288,Zuzana,Čermáková,Ž,35–44,kancelář – oběd,web,+420 7** *** 106,2026-04-25,ema-espresso,Praha 1,vracející se
+C0289,Nikola,Horáková,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 501,2026-08-16,miners-old-town,Praha 1,jednorázový
+C0290,Aneta,Novotná,Ž,25–34,ranní dojíždějící,web,+420 7** *** 981,2026-08-29,basics-borislavka,Praha 6,vracející se
+C0291,Lenka,Konečná,Ž,35–44,odpolední pauza,iOS aplikace,+420 7** *** 894,2026-08-08,miners-letna,Praha 7,vracející se
+C0292,Johana,Hrubá,Ž,25–34,kancelář – oběd,web,+420 6** *** 538,2026-09-02,loka-doubleshot,Praha 1,jednorázový
+C0293,Johana,Křížová,Ž,35–44,kancelář – oběd,web,+420 6** *** 381,2026-09-28,kaaba,Praha 2,vracející se
+C0294,Aneta,Havlíčková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 297,2026-06-08,miners-florentium,Praha 1,vracející se
+C0295,Michal,Soukup,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 184,2026-10-02,globe-bookstore-cafe,Praha 1,jednorázový
+C0296,Viktor,Čermák,M,35–44,kancelář – oběd,web,+420 6** *** 377,2026-09-12,mamacoffee-podolska,Praha 4,vracející se
+C0297,Petr,Růžička,M,35–44,kancelář – oběd,web,+420 7** *** 778,2026-08-28,21-coffee,Praha 1,vracející se
+C0298,Rozálie,Lukášová,Ž,25–34,student,web,+420 6** *** 286,2026-10-05,ema-komunardu,Praha 7,vracející se
+C0299,Hynek,Hruška,M,45–54,odpolední pauza,web,+420 7** *** 540,2026-05-27,one-sip-coffee,Praha 1,vracející se
+C0300,Radka,Moravcová,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 645,2026-05-12,misto,Praha 6,vracející se
+C0301,Rozálie,Zelenková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 316,2026-05-08,miners-maj,Praha 1,vracející se
+C0302,Kamila,Ševčíková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 007,2026-09-03,miners-borislavka,Praha 6,vracející se
+C0303,Jana,Ševčíková,Ž,25–34,kancelář – oběd,web,+420 6** *** 478,2026-09-23,basics-palladium-plus2,Praha 1,jednorázový
+C0304,Markéta,Benešová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 200,2026-07-15,miners-borislavka,Praha 6,vracející se
+C0305,Jiří,Kubíček,M,18–24,student,iOS aplikace,+420 7** *** 696,2026-09-30,miners-victoria-palace,Praha 6,jednorázový
+C0306,Daniela,Žáková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 310,2026-09-07,miners-maj,Praha 1,jednorázový
+C0307,Michaela,Černá,Ž,25–34,student,web,+420 6** *** 618,2026-08-24,loka-doubleshot,Praha 1,jednorázový
+C0308,Denisa,Matoušková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 621,2026-08-24,miners-port7,Praha 7,jednorázový
+C0309,Adam,Dušek,M,18–24,odpolední pauza,iOS aplikace,+420 7** *** 886,2026-08-15,miners-komunardu,Praha 7,vracející se
+C0310,Libor,Kříž,M,25–34,ranní dojíždějící,web,+420 7** *** 275,2026-09-03,miners-charles-bridge,Praha 1,vracející se
+C0311,Nikola,Skálová,Ž,55+,odpolední pauza,iOS aplikace,+420 6** *** 123,2026-08-17,miners-old-town,Praha 1,jednorázový
+C0312,Šárka,Řezníčková,Ž,45–54,odpolední pauza,iOS aplikace,+420 6** *** 906,2026-06-14,ema-espresso,Praha 1,vracející se
+C0313,Michaela,Dušková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 938,2026-05-30,miners-victoria-palace,Praha 6,vracející se
+C0314,Zdeňka,Kašparová,Ž,18–24,student,web,+420 7** *** 885,2026-09-16,ema-svetova,Praha 8,jednorázový
+C0315,Eva,Havlíčková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 300,2026-09-30,basics-palladium-minus2,Praha 1,jednorázový
+C0316,Patrik,Matoušek,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 079,2026-07-12,coffee-room,Praha 2,vracející se
+C0317,Šimon,Mašek,M,18–24,student,iOS aplikace,+420 7** *** 374,2026-09-30,prazirna,Praha 2,jednorázový
+C0318,Radka,Tichá,Ž,18–24,student,iOS aplikace,+420 6** *** 718,2026-05-15,miners-florentium,Praha 1,vracející se
+C0319,Denisa,Holubová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 996,2026-06-24,basics-palladium-plus2,Praha 1,vracející se
+C0320,Robert,Dušek,M,35–44,ranní dojíždějící,web,+420 6** *** 923,2026-05-17,miners-karlin,Praha 8,vracející se
+C0321,Šimon,Sýkora,M,25–34,odpolední pauza,web,+420 6** *** 028,2026-09-21,cafe-neustadt,Praha 2,vracející se
+C0322,Ondřej,Bartoš,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 610,2026-05-21,miners-old-town,Praha 1,vracející se
+C0323,Ladislav,Hruška,M,25–34,student,iOS aplikace,+420 7** *** 013,2026-09-11,cafe-neustadt,Praha 2,jednorázový
+C0324,Stanislav,Hruška,M,55+,víkendový brunch,iOS aplikace,+420 6** *** 306,2026-04-18,miners-maj,Praha 1,vracející se
+C0325,Kristýna,Růžičková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 798,2026-09-03,mamacoffee-londynska,Praha 2,jednorázový
+C0326,Šárka,Hrušková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 885,2026-10-02,version,Praha 2,vracející se
+C0327,Aneta,Hronková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 103,2026-10-06,globe-bookstore-cafe,Praha 1,vracející se
+C0328,Igor,Kubíček,M,45–54,ranní dojíždějící,web,+420 6** *** 885,2026-08-02,miners-letna,Praha 7,vracející se
+C0329,Vojtěch,Pavlík,M,35–44,ranní dojíždějící,web,+420 6** *** 364,2026-07-13,globe-bookstore-cafe,Praha 1,vracející se
+C0330,Šárka,Matoušková,Ž,25–34,student,iOS aplikace,+420 7** *** 122,2026-05-01,monolok,Praha 2,vracející se
+C0331,Sára,Navrátilová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 925,2026-09-30,miners-maj,Praha 1,vracející se
+C0332,Robert,Král,M,18–24,odpolední pauza,web,+420 7** *** 397,2026-06-28,basics-borislavka,Praha 6,vracející se
+C0333,Radka,Dušková,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 723,2026-07-04,basics-borislavka,Praha 6,vracející se
+C0334,Robert,Toman,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 146,2026-08-01,ema-svetova,Praha 8,vracející se
+C0335,Václav,Veselý,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 165,2026-10-08,miners-charles-bridge,Praha 1,vracející se
+C0336,Zuzana,Hanáková,Ž,18–24,odpolední pauza,iOS aplikace,+420 6** *** 532,2026-10-06,misto,Praha 6,vracející se
+C0337,Denisa,Hrušková,Ž,18–24,student,web,+420 7** *** 626,2026-05-23,ema-espresso,Praha 1,vracející se
+C0338,Jiří,Moravec,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 878,2026-08-18,miners-florentium,Praha 1,vracející se
+C0339,Johana,Burešová,Ž,18–24,student,web,+420 6** *** 926,2026-07-30,moment-cafe,Praha 2,vracející se
+C0340,Michal,Fiala,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 088,2026-09-02,kafemat,Praha 6,jednorázový
+C0341,Nikola,Fialová,Ž,25–34,kancelář – oběd,web,+420 7** *** 630,2026-08-17,miners-florentium,Praha 1,jednorázový
+C0342,Simona,Charvátová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 429,2026-06-08,basics-palladium-plus2,Praha 1,vracející se
+C0343,Viktor,Dvořák,M,18–24,odpolední pauza,web,+420 7** *** 345,2026-05-17,basics-palladium-plus2,Praha 1,vracející se
+C0344,Viktorie,Hájková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 115,2026-08-30,miners-bakery,Praha 8,jednorázový
+C0345,Zdeňka,Jelínková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 620,2026-09-13,globe-bookstore-cafe,Praha 1,jednorázový
+C0346,Simona,Blažková,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 063,2026-09-12,miners-bakery,Praha 8,vracející se
+C0347,Jiří,Navrátil,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 398,2026-06-18,cafe-neustadt,Praha 2,vracející se
+C0348,Lucie,Navrátilová,Ž,25–34,odpolední pauza,web,+420 7** *** 042,2026-09-30,miners-maj,Praha 1,jednorázový
+C0349,Simona,Marešová,Ž,18–24,student,iOS aplikace,+420 7** *** 864,2026-06-22,miners-roastery,Praha 8,vracející se
+C0350,Oliver,Král,M,18–24,student,web,+420 7** *** 433,2026-10-01,kaaba,Praha 2,jednorázový
+C0351,Martina,Říhová,Ž,35–44,kancelář – oběd,web,+420 7** *** 656,2026-06-27,basics-palladium-minus2,Praha 1,vracející se
+C0352,Lukáš,Bednář,M,18–24,student,web,+420 7** *** 965,2026-09-22,mamacoffee-londynska,Praha 2,vracející se
+C0353,Oliver,Horák,M,35–44,ranní dojíždějící,web,+420 7** *** 288,2026-09-14,prosekarna,Praha 2,vracející se
+C0354,Šimon,Hrubý,M,18–24,student,iOS aplikace,+420 6** *** 842,2026-09-24,atomic-matcha,Praha 8,jednorázový
+C0355,Igor,Mašek,M,25–34,kancelář – oběd,web,+420 7** *** 641,2026-07-05,cafe-nezisk-mamacoffee-pohorelec,Praha 1,vracející se
+C0356,Jiří,Růžička,M,25–34,odpolední pauza,web,+420 7** *** 772,2026-04-30,miners-old-town,Praha 1,vracející se
+C0357,David,Bláha,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 774,2026-05-31,miners-letna,Praha 7,vracející se
+C0358,Kamila,Valentová,Ž,18–24,student,web,+420 7** *** 046,2026-08-21,miners-charles-bridge,Praha 1,jednorázový
+C0359,Daniel,Vlček,M,25–34,kancelář – oběd,web,+420 7** *** 736,2026-05-22,ema-espresso,Praha 1,vracející se
+C0360,Martina,Horová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 282,2026-10-09,basics-palladium-minus2,Praha 1,jednorázový
+C0361,Hana,Němcová,Ž,25–34,kancelář – oběd,web,+420 7** *** 768,2026-07-08,loka-doubleshot,Praha 1,vracející se
+C0362,Adéla,Hrušková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 193,2026-08-28,kafemat,Praha 6,jednorázový
+C0363,Radka,Charvátová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 437,2026-09-06,miners-charles-bridge,Praha 1,vracející se
+C0364,Monika,Dostálová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 245,2026-04-24,miners-karlin,Praha 8,vracející se
+C0365,Šimon,Navrátil,M,25–34,odpolední pauza,web,+420 6** *** 365,2026-09-02,the-flat-cafe,Praha 10,vracející se
+C0366,Jana,Pospíšilová,Ž,35–44,víkendový brunch,web,+420 6** *** 011,2026-08-06,basics-palladium-plus2,Praha 1,vracející se
+C0367,Kryštof,Matoušek,M,35–44,víkendový brunch,iOS aplikace,+420 7** *** 575,2026-05-01,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0368,Vendula,Holubová,Ž,25–34,student,web,+420 7** *** 634,2026-06-23,roasters-hub,Praha 1,vracející se
+C0369,Libor,Charvát,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 325,2026-08-22,basics-palladium-minus2,Praha 1,jednorázový
+C0370,Antonín,Bureš,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 751,2026-09-28,cafe-neustadt,Praha 2,vracející se
+C0371,Natálie,Kadlcová,Ž,18–24,ranní dojíždějící,web,+420 6** *** 610,2026-09-04,miners-port7,Praha 7,jednorázový
+C0372,Eva,Říhová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 469,2026-10-07,miners-karlin,Praha 8,jednorázový
+C0373,Libor,Černý,M,18–24,student,iOS aplikace,+420 6** *** 810,2026-10-06,miners-komunardu,Praha 7,vracející se
+C0374,Milan,Bednář,M,35–44,víkendový brunch,web,+420 7** *** 097,2026-08-24,miners-letna,Praha 7,vracející se
+C0375,Petr,Kadlec,M,18–24,student,iOS aplikace,+420 7** *** 318,2026-08-22,miners-karlin,Praha 8,jednorázový
+C0376,Julie,Poláková,Ž,55+,víkendový brunch,web,+420 7** *** 798,2026-07-10,miners-old-town,Praha 1,vracející se
+C0377,Zdeňka,Žáková,Ž,35–44,kancelář – oběd,web,+420 7** *** 597,2026-09-13,miners-victoria-palace,Praha 6,jednorázový
+C0378,Pavla,Burešová,Ž,18–24,student,web,+420 7** *** 139,2026-10-05,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0379,Anna,Šťastná,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 376,2026-07-01,cafe-neustadt,Praha 2,vracející se
+C0380,Marie,Moravcová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 089,2026-09-29,miners-komunardu,Praha 7,jednorázový
+C0381,David,Pavlík,M,25–34,odpolední pauza,web,+420 7** *** 138,2026-06-20,miners-florentium,Praha 1,vracející se
+C0382,Josef,Dušek,M,18–24,student,iOS aplikace,+420 6** *** 113,2026-08-29,basics-palladium-minus2,Praha 1,jednorázový
+C0383,Bára,Vávrová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 170,2026-05-04,em3-coffee,Praha 5,vracející se
+C0384,Linda,Kubíčková,Ž,18–24,student,iOS aplikace,+420 7** *** 086,2026-09-06,cafe-neustadt,Praha 2,jednorázový
+C0385,Anna,Hájková,Ž,35–44,kancelář – oběd,web,+420 7** *** 649,2026-08-31,miners-charles-bridge,Praha 1,vracející se
+C0386,Alžběta,Veselá,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 306,2026-09-12,ema-komunardu,Praha 7,vracející se
+C0387,Gabriela,Bartošová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 164,2026-07-14,em3-coffee,Praha 5,vracející se
+C0388,Filip,Urban,M,35–44,víkendový brunch,web,+420 6** *** 326,2026-06-28,mamacoffee-londynska,Praha 2,vracející se
+C0389,Lenka,Kubíčková,Ž,35–44,odpolední pauza,iOS aplikace,+420 6** *** 621,2026-05-28,one-sip-coffee,Praha 1,vracející se
+C0390,Zdeňka,Šimková,Ž,18–24,student,web,+420 6** *** 433,2026-09-29,basics-palladium-plus2,Praha 1,jednorázový
+C0391,Zuzana,Havlíčková,Ž,18–24,student,iOS aplikace,+420 6** *** 528,2026-08-28,miners-maj,Praha 1,jednorázový
+C0392,Miroslav,Kašpar,M,55+,víkendový brunch,iOS aplikace,+420 6** *** 560,2026-07-28,basics-palladium-minus2,Praha 1,vracející se
+C0393,Viktorie,Růžičková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 505,2026-09-24,basics-palladium-minus2,Praha 1,jednorázový
+C0394,Jiří,Kratochvíl,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 602,2026-07-05,mamacoffee-podolska,Praha 4,vracející se
+C0395,Barbora,Novotná,Ž,45–54,víkendový brunch,web,+420 7** *** 894,2026-05-27,miners-maj,Praha 1,vracející se
+C0396,Hynek,Polák,M,35–44,ranní dojíždějící,web,+420 7** *** 534,2026-08-01,ema-krizikova,Praha 8,vracející se
+C0397,Vladimír,Hruška,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 912,2026-10-06,mamacoffee-londynska,Praha 2,vracející se
+C0398,Pavel,Kadlec,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 351,2026-07-07,21-coffee,Praha 1,vracející se
+C0399,Pavla,Machová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 961,2026-09-30,bitcoin-coffee,Praha 7,jednorázový
+C0400,Barbora,Růžičková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 797,2026-10-03,miners-victoria-palace,Praha 6,vracející se
+C0401,Marie,Hronková,Ž,18–24,student,iOS aplikace,+420 7** *** 632,2026-09-11,miners-charles-bridge,Praha 1,jednorázový
+C0402,Jakub,Marek,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 569,2026-09-26,miners-port7,Praha 7,vracející se
+C0403,Josef,Němec,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 245,2026-07-20,basics-palladium-plus2,Praha 1,vracející se
+C0404,Ondřej,Šindelář,M,25–34,student,iOS aplikace,+420 6** *** 209,2026-06-02,letka,Praha 7,vracející se
+C0405,Václav,Moravec,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 569,2026-07-03,miners-maj,Praha 1,vracející se
+C0406,Gabriela,Valentová,Ž,18–24,student,web,+420 6** *** 196,2026-05-13,miners-maj,Praha 1,vracející se
+C0407,Štěpán,Charvát,M,35–44,odpolední pauza,iOS aplikace,+420 7** *** 050,2026-09-05,miners-maj,Praha 1,jednorázový
+C0408,Ondřej,Vaněk,M,45–54,víkendový brunch,web,+420 6** *** 772,2026-10-04,ema-krizikova,Praha 8,vracející se
+C0409,Nela,Machová,Ž,25–34,student,iOS aplikace,+420 7** *** 048,2026-09-28,misto,Praha 6,vracející se
+C0410,Martina,Šimková,Ž,45–54,ranní dojíždějící,web,+420 6** *** 335,2026-10-06,barry-higgel-coffeehouse,Praha 7,vracející se
+C0411,Filip,Vávra,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 979,2026-09-14,miners-jzp,Praha 2,jednorázový
+C0412,Stanislav,Šindelář,M,25–34,ranní dojíždějící,web,+420 6** *** 092,2026-07-03,one-sip-coffee,Praha 1,vracející se
+C0413,Richard,Bednář,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 299,2026-09-19,ema-krizikova,Praha 8,jednorázový
+C0414,Filip,Valenta,M,25–34,student,web,+420 7** *** 957,2026-08-16,basics-palladium-plus2,Praha 1,vracející se
+C0415,Ondřej,Horák,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 466,2026-09-03,ema-espresso,Praha 1,jednorázový
+C0416,Matěj,Kašpar,M,25–34,ranní dojíždějící,web,+420 7** *** 551,2026-07-26,ema-espresso,Praha 1,vracející se
+C0417,Eliška,Holubová,Ž,25–34,kancelář – oběd,web,+420 7** *** 100,2026-04-29,ema-komunardu,Praha 7,vracející se
+C0418,Matyáš,Zelenka,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 163,2026-06-04,miners-letna,Praha 7,vracející se
+C0419,Josef,Jelínek,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 790,2026-08-23,objekt-kafe,Praha 1,vracející se
+C0420,Antonín,Kopecký,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 920,2026-07-10,atomic-matcha,Praha 8,vracející se
+C0421,Dominika,Novotná,Ž,35–44,víkendový brunch,web,+420 6** *** 301,2026-09-25,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0422,Jindřich,Holub,M,35–44,kancelář – oběd,web,+420 6** *** 978,2026-04-25,miners-charles-bridge,Praha 1,vracející se
+C0423,Barbora,Kopecká,Ž,25–34,kancelář – oběd,web,+420 6** *** 917,2026-10-05,letka,Praha 7,vracející se
+C0424,Martina,Vávrová,Ž,55+,víkendový brunch,web,+420 6** *** 310,2026-09-25,miners-old-town,Praha 1,jednorázový
+C0425,Petra,Bláhová,Ž,45–54,víkendový brunch,web,+420 7** *** 796,2026-10-01,basics-palladium-plus2,Praha 1,vracející se
+C0426,Martina,Horáková,Ž,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 219,2026-08-06,21-coffee,Praha 1,vracející se
+C0427,Martina,Dvořáková,Ž,45–54,kancelář – oběd,iOS aplikace,+420 6** *** 449,2026-08-26,miners-old-town,Praha 1,vracející se
+C0428,Daniela,Bednářová,Ž,18–24,student,iOS aplikace,+420 7** *** 425,2026-05-31,miners-port7,Praha 7,vracející se
+C0429,Oliver,Blažek,M,25–34,ranní dojíždějící,web,+420 7** *** 510,2026-09-25,mamacoffee-londynska,Praha 2,vracející se
+C0430,Václav,Procházka,M,55+,odpolední pauza,iOS aplikace,+420 7** *** 678,2026-04-27,basics-borislavka,Praha 6,vracející se
+C0431,Klára,Valentová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 261,2026-07-21,ema-krizikova,Praha 8,vracející se
+C0432,Pavla,Veselá,Ž,25–34,odpolední pauza,web,+420 7** *** 941,2026-09-04,ema-espresso,Praha 1,vracející se
+C0433,Barbora,Matoušková,Ž,25–34,víkendový brunch,web,+420 6** *** 983,2026-09-05,kafemat,Praha 6,vracející se
+C0434,Kristýna,Ševčíková,Ž,25–34,kancelář – oběd,web,+420 7** *** 513,2026-07-01,miners-jzp,Praha 2,vracející se
+C0435,Ivana,Vaněková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 089,2026-04-19,miners-churchill,Praha 2,vracející se
+C0436,Kamila,Dvořáková,Ž,18–24,odpolední pauza,iOS aplikace,+420 7** *** 757,2026-10-06,basics-palladium-minus2,Praha 1,vracející se
+C0437,Robert,Kříž,M,18–24,odpolední pauza,iOS aplikace,+420 7** *** 479,2026-07-29,miners-jzp,Praha 2,vracející se
+C0438,Klára,Horáková,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 997,2026-09-30,prosekarna,Praha 2,vracející se
+C0439,Ivana,Brabcová,Ž,25–34,kancelář – oběd,web,+420 7** *** 119,2026-04-18,miners-jzp,Praha 2,vracející se
+C0440,Jindřich,Žák,M,18–24,student,iOS aplikace,+420 7** *** 546,2026-10-05,zrno-zrnko,Praha 5,vracející se
+C0441,Zuzana,Pokorná,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 729,2026-09-11,kolektor-cafe,Praha 7,vracející se
+C0442,Kryštof,Fiala,M,35–44,víkendový brunch,iOS aplikace,+420 7** *** 250,2026-05-22,basics-palladium-minus2,Praha 1,vracející se
+C0443,Šárka,Marková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 515,2026-10-02,miners-komunardu,Praha 7,vracející se
+C0444,Bára,Pokorná,Ž,25–34,ranní dojíždějící,web,+420 7** *** 658,2026-08-29,miners-letna,Praha 7,vracející se
+C0445,Pavla,Vaněková,Ž,35–44,ranní dojíždějící,web,+420 6** *** 548,2026-10-02,miners-jzp,Praha 2,jednorázový
+C0446,Oliver,Žák,M,18–24,odpolední pauza,web,+420 7** *** 579,2026-05-07,miners-florentium,Praha 1,vracející se
+C0447,Ladislav,Černý,M,25–34,ranní dojíždějící,web,+420 6** *** 401,2026-10-07,mamacoffee-londynska,Praha 2,vracející se
+C0448,Pavel,Valenta,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 522,2026-05-13,basics-palladium-minus2,Praha 1,vracející se
+C0449,Ivana,Horová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 422,2026-05-15,cafe-neustadt,Praha 2,vracející se
+C0450,Viktor,Mašek,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 703,2026-09-20,miners-letna,Praha 7,jednorázový
+C0451,Hynek,Marek,M,18–24,student,web,+420 6** *** 826,2026-06-11,misto,Praha 6,vracející se
+C0452,Filip,Pospíšil,M,18–24,student,iOS aplikace,+420 6** *** 481,2026-06-16,letka,Praha 7,vracející se
+C0453,Jaroslav,Valenta,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 945,2026-06-12,la-terra-coffee,Praha 2,vracející se
+C0454,Vít,Kolář,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 929,2026-05-25,objekt-kafe,Praha 1,vracející se
+C0455,Patrik,Hronek,M,18–24,odpolední pauza,iOS aplikace,+420 6** *** 068,2026-10-06,miners-florentium,Praha 1,vracející se
+C0456,Lucie,Marková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 401,2026-06-01,ala-coffee,Praha 9,vracející se
+C0457,Lenka,Říhová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 813,2026-09-21,basics-palladium-minus2,Praha 1,vracející se
+C0458,Eliška,Machová,Ž,18–24,student,web,+420 7** *** 383,2026-09-06,cafe-jen,Praha 10,vracející se
+C0459,Jindřich,Urban,M,18–24,student,iOS aplikace,+420 6** *** 090,2026-08-26,miners-komunardu,Praha 7,jednorázový
+C0460,Šimon,Brabec,M,35–44,kancelář – oběd,web,+420 7** *** 538,2026-05-16,miners-letna,Praha 7,vracející se
+C0461,Hana,Šindelářová,Ž,45–54,odpolední pauza,iOS aplikace,+420 6** *** 649,2026-04-20,miners-letna,Praha 7,vracející se
+C0462,Milan,Dušek,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 743,2026-08-31,miners-charles-bridge,Praha 1,vracející se
+C0463,Rozálie,Dvořáková,Ž,25–34,student,iOS aplikace,+420 6** *** 297,2026-09-06,miners-jzp,Praha 2,jednorázový
+C0464,Gabriela,Lukášová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 443,2026-05-20,basics-palladium-plus2,Praha 1,vracející se
+C0465,Aleš,Horák,M,25–34,kancelář – oběd,web,+420 7** *** 576,2026-09-16,miners-letna,Praha 7,vracející se
+C0466,Kamila,Kopecká,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 348,2026-06-29,miners-komunardu,Praha 7,vracející se
+C0467,Stanislav,Říha,M,25–34,ranní dojíždějící,web,+420 7** *** 473,2026-08-07,version,Praha 2,vracející se
+C0468,Zdeněk,Holub,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 959,2026-06-23,miners-komunardu,Praha 7,vracející se
+C0469,Pavel,Mašek,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 763,2026-10-03,cheecup,Praha 4,jednorázový
+C0470,Filip,Pavlík,M,18–24,student,iOS aplikace,+420 7** *** 616,2026-08-20,mamacoffee-londynska,Praha 2,jednorázový
+C0471,Bára,Mašková,Ž,45–54,víkendový brunch,iOS aplikace,+420 6** *** 764,2026-09-26,bakeshop,Praha 1,jednorázový
+C0472,Kryštof,Kašpar,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 056,2026-10-03,ollivers-coffee-cup,Praha 1,vracející se
+C0473,Nikola,Němcová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 938,2026-08-31,loka-doubleshot,Praha 1,jednorázový
+C0474,Alžběta,Benešová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 235,2026-07-27,21-coffee,Praha 1,vracející se
+C0475,Štěpán,Ševčík,M,35–44,kancelář – oběd,web,+420 7** *** 668,2026-09-14,ema-krizikova,Praha 8,vracející se
+C0476,Monika,Jelínková,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 857,2026-05-15,miners-charles-bridge,Praha 1,vracející se
+C0477,Robert,Dostál,M,25–34,víkendový brunch,web,+420 6** *** 167,2026-10-07,basics-palladium-minus2,Praha 1,vracející se
+C0478,Barbora,Zelenková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 052,2026-10-08,kavarna-slavia,Praha 1,vracející se
+C0479,Veronika,Horáková,Ž,35–44,víkendový brunch,web,+420 7** *** 827,2026-09-28,miners-old-town,Praha 1,jednorázový
+C0480,Natálie,Vávrová,Ž,18–24,student,iOS aplikace,+420 6** *** 893,2026-10-02,basics-palladium-plus2,Praha 1,vracející se
+C0481,Robert,Ševčík,M,18–24,student,iOS aplikace,+420 6** *** 186,2026-05-09,monolok,Praha 2,vracející se
+C0482,Miroslav,Musil,M,35–44,odpolední pauza,iOS aplikace,+420 7** *** 686,2026-09-30,corner-stories,Praha 10,vracející se
+C0483,Štěpán,Kovář,M,25–34,ranní dojíždějící,web,+420 7** *** 879,2026-10-06,cafe-peron,Praha 5,vracející se
+C0484,Adam,Moravec,M,35–44,kancelář – oběd,web,+420 6** *** 993,2026-06-17,basics-borislavka,Praha 6,vracející se
+C0485,Lucie,Mašková,Ž,18–24,student,web,+420 6** *** 293,2026-09-18,miners-karlin,Praha 8,jednorázový
+C0486,Vojtěch,Bartoš,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 156,2026-09-09,miners-port7,Praha 7,jednorázový
+C0487,Roman,Kadlec,M,18–24,ranní dojíždějící,web,+420 6** *** 919,2026-09-15,cafe-neustadt,Praha 2,jednorázový
+C0488,Markéta,Řezníčková,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 738,2026-07-23,loka-doubleshot,Praha 1,vracející se
+C0489,Eva,Kadlcová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 762,2026-10-12,miners-letna,Praha 7,jednorázový
+C0490,Viktorie,Čermáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 043,2026-07-17,cafe-ebel-kaprova,Praha 1,vracející se
+C0491,Radka,Jelínková,Ž,18–24,ranní dojíždějící,web,+420 6** *** 703,2026-05-02,miners-maj,Praha 1,vracející se
+C0492,Dominik,Navrátil,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 267,2026-09-17,cafeidoskop,Praha 1,jednorázový
+C0493,Markéta,Moravcová,Ž,18–24,odpolední pauza,iOS aplikace,+420 7** *** 095,2026-08-02,ema-krizikova,Praha 8,vracející se
+C0494,Karolína,Kučerová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 964,2026-10-08,21-coffee,Praha 1,jednorázový
+C0495,Petr,Matoušek,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 361,2026-05-30,cafe-neustadt,Praha 2,vracející se
+C0496,Marek,Dvořák,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 672,2026-06-17,21-coffee,Praha 1,vracející se
+C0497,Kateřina,Horáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 816,2026-09-03,periferie-cafe,Praha 4,vracející se
+C0498,Iveta,Kučerová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 139,2026-09-28,miners-port7,Praha 7,vracející se
+C0499,Milan,Říha,M,35–44,odpolední pauza,web,+420 6** *** 843,2026-08-03,objekt-kafe,Praha 1,vracející se
+C0500,Kateřina,Marková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 292,2026-07-19,miners-old-town,Praha 1,vracející se
+C0501,Zdeněk,Zelenka,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 840,2026-05-19,yes-kafe-wine,Praha 8,vracející se
+C0502,Tereza,Vlčková,Ž,18–24,odpolední pauza,iOS aplikace,+420 6** *** 538,2026-09-02,basics-palladium-minus2,Praha 1,jednorázový
+C0503,Karolína,Růžičková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 694,2026-06-03,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0504,Tomáš,Bureš,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 943,2026-06-20,basics-borislavka,Praha 6,vracející se
+C0505,Eliška,Křížová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 458,2026-09-09,proste-kafe,Praha 10,jednorázový
+C0506,Milan,Zelenka,M,18–24,odpolední pauza,iOS aplikace,+420 6** *** 712,2026-09-18,miners-komunardu,Praha 7,vracející se
+C0507,Dominik,Hora,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 569,2026-09-18,la-terra-coffee,Praha 2,jednorázový
+C0508,Vendula,Urbanová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 559,2026-10-07,miners-bakery,Praha 8,vracející se
+C0509,Viktorie,Blažková,Ž,35–44,kancelář – oběd,web,+420 7** *** 085,2026-08-15,ema-espresso,Praha 1,vracející se
+C0510,Jaroslav,Skála,M,18–24,ranní dojíždějící,web,+420 6** *** 510,2026-08-20,ema-krizikova,Praha 8,jednorázový
+C0511,Linda,Havlíčková,Ž,25–34,kancelář – oběd,web,+420 7** *** 884,2026-07-01,letka,Praha 7,vracející se
+C0512,Vladimír,Šťastný,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 460,2026-08-25,kafe-karlin,Praha 8,vracející se
+C0513,Stanislav,Holub,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 138,2026-05-27,miners-jzp,Praha 2,vracející se
+C0514,Jindřich,Hájek,M,25–34,odpolední pauza,web,+420 7** *** 126,2026-10-12,atomic-matcha,Praha 8,jednorázový
+C0515,Jiří,Pavlík,M,25–34,student,web,+420 6** *** 405,2026-05-31,miners-borislavka,Praha 6,vracející se
+C0516,Marie,Šindelářová,Ž,25–34,víkendový brunch,web,+420 7** *** 144,2026-10-12,coffee-source,Praha 2,jednorázový
+C0517,Karel,Havlíček,M,25–34,kancelář – oběd,web,+420 7** *** 842,2026-06-30,basics-palladium-minus2,Praha 1,vracející se
+C0518,Patrik,Brabec,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 514,2026-09-19,kavarna-slavia,Praha 1,vracející se
+C0519,Pavla,Konečná,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 931,2026-09-28,miners-florentium,Praha 1,jednorázový
+C0520,Klára,Pospíšilová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 575,2026-08-29,miners-charles-bridge,Praha 1,vracející se
+C0521,Vladimír,Kolář,M,35–44,ranní dojíždějící,web,+420 6** *** 039,2026-07-30,basics-borislavka,Praha 6,vracející se
+C0522,Barbora,Vlčková,Ž,35–44,ranní dojíždějící,web,+420 6** *** 117,2026-06-28,miners-port7,Praha 7,vracející se
+C0523,Igor,Vlček,M,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 022,2026-07-10,loka-doubleshot,Praha 1,vracející se
+C0524,Adéla,Hanáková,Ž,35–44,ranní dojíždějící,web,+420 7** *** 103,2026-05-24,la-boheme-cafe,Praha 2,vracející se
+C0525,Gabriela,Pokorná,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 152,2026-09-06,atomic-matcha,Praha 8,vracející se
+C0526,Filip,Veselý,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 718,2026-05-02,miners-letna,Praha 7,vracející se
+C0527,Oliver,Dostál,M,35–44,víkendový brunch,iOS aplikace,+420 7** *** 816,2026-10-02,borzoi,Praha 6,jednorázový
+C0528,Lucie,Říhová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 445,2026-09-07,one-sip-coffee,Praha 1,vracející se
+C0529,Martina,Havlíčková,Ž,18–24,student,iOS aplikace,+420 7** *** 777,2026-04-28,basics-palladium-minus2,Praha 1,vracející se
+C0530,Kristýna,Sýkorová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 847,2026-07-09,ala-coffee,Praha 9,vracející se
+C0531,Julie,Machová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 367,2026-07-23,miners-charles-bridge,Praha 1,vracející se
+C0532,Hynek,Kučera,M,25–34,odpolední pauza,web,+420 7** *** 883,2026-10-10,version,Praha 2,jednorázový
+C0533,Robert,Bartoš,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 997,2026-09-30,loka-doubleshot,Praha 1,jednorázový
+C0534,Simona,Novotná,Ž,25–34,kancelář – oběd,web,+420 6** *** 866,2026-10-08,basics-palladium-plus2,Praha 1,vracející se
+C0535,Dominika,Burešová,Ž,45–54,víkendový brunch,web,+420 7** *** 530,2026-09-05,basics-palladium-plus2,Praha 1,vracející se
+C0536,Šimon,Pospíšil,M,25–34,kancelář – oběd,web,+420 7** *** 102,2026-10-06,coffee-room,Praha 2,vracející se
+C0537,Zdeněk,Kříž,M,25–34,ranní dojíždějící,web,+420 7** *** 535,2026-08-26,miners-karlin,Praha 8,jednorázový
+C0538,Marek,Kučera,M,25–34,ranní dojíždějící,web,+420 7** *** 314,2026-09-17,ema-krizikova,Praha 8,vracející se
+C0539,Radka,Burešová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 881,2026-09-27,kafe-karlin,Praha 8,vracející se
+C0540,Zdeňka,Dvořáková,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 763,2026-07-29,basics-borislavka,Praha 6,vracející se
+C0541,Lenka,Dvořáková,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 228,2026-09-03,miners-jzp,Praha 2,vracející se
+C0542,Lada,Vlčková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 368,2026-09-14,kolektor-cafe,Praha 7,jednorázový
+C0543,Monika,Kolářová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 616,2026-08-26,miners-port7,Praha 7,vracející se
+C0544,Veronika,Marešová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 223,2026-09-14,basics-palladium-plus2,Praha 1,jednorázový
+C0545,Viktorie,Urbanová,Ž,25–34,student,web,+420 7** *** 405,2026-05-10,industra-holesovice,Praha 7,vracející se
+C0546,Igor,Matoušek,M,35–44,víkendový brunch,web,+420 7** *** 309,2026-06-13,ema-krizikova,Praha 8,vracející se
+C0547,Richard,Marek,M,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 500,2026-09-01,ema-komunardu,Praha 7,vracející se
+C0548,Lenka,Musilová,Ž,25–34,odpolední pauza,iOS aplikace,+420 6** *** 625,2026-08-09,atomic-matcha,Praha 8,vracející se
+C0549,Radka,Pokorná,Ž,35–44,ranní dojíždějící,web,+420 6** *** 027,2026-09-17,miners-bakery,Praha 8,vracející se
+C0550,Denis,Soukup,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 516,2026-09-23,monolok,Praha 2,jednorázový
+C0551,Natálie,Horáková,Ž,18–24,odpolední pauza,iOS aplikace,+420 6** *** 538,2026-05-09,mamacoffee-londynska,Praha 2,vracející se
+C0552,Viktor,Kovář,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 520,2026-05-06,ema-krizikova,Praha 8,vracející se
+C0553,Vít,Hruška,M,35–44,ranní dojíždějící,web,+420 6** *** 855,2026-08-28,ema-komunardu,Praha 7,jednorázový
+C0554,Martin,Vrba,M,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 378,2026-08-31,miners-old-town,Praha 1,jednorázový
+C0555,Aneta,Hájková,Ž,25–34,víkendový brunch,web,+420 7** *** 414,2026-10-07,mamacoffee-podolska,Praha 4,vracející se
+C0556,Pavla,Poláková,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 715,2026-06-14,loka-doubleshot,Praha 1,vracející se
+C0557,Zdeněk,Bartoš,M,18–24,student,iOS aplikace,+420 7** *** 250,2026-06-19,basics-palladium-minus2,Praha 1,vracející se
+C0558,Iveta,Hájková,Ž,18–24,student,iOS aplikace,+420 6** *** 105,2026-08-23,basics-borislavka,Praha 6,jednorázový
+C0559,Dominika,Kovářová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 413,2026-09-13,cafe-jen,Praha 10,vracející se
+C0560,Marek,Ševčík,M,35–44,kancelář – oběd,web,+420 7** *** 668,2026-06-05,atomic-matcha,Praha 8,vracející se
+C0561,Aneta,Procházková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 606,2026-07-30,monolok,Praha 2,vracející se
+C0562,Zdeněk,Hrubý,M,18–24,odpolední pauza,web,+420 7** *** 400,2026-09-01,ema-komunardu,Praha 7,jednorázový
+C0563,Roman,Blažek,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 836,2026-08-22,miners-bakery,Praha 8,vracející se
+C0564,Ondřej,Král,M,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 859,2026-09-20,coffee-room,Praha 2,jednorázový
+C0565,Markéta,Marková,Ž,45–54,kancelář – oběd,web,+420 6** *** 781,2026-10-07,cafe-neustadt,Praha 2,jednorázový
+C0566,Vladimír,Kratochvíl,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 245,2026-09-11,ippa-cafe,Praha 6,vracející se
+C0567,Jiří,Říha,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 067,2026-09-20,21-coffee,Praha 1,jednorázový
+C0568,Pavla,Moravcová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 670,2026-09-24,elvira-cafe,Praha 5,vracející se
+C0569,Monika,Poláková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 354,2026-05-10,mamacoffee-podolska,Praha 4,vracející se
+C0570,Lenka,Havlíčková,Ž,25–34,kancelář – oběd,web,+420 7** *** 958,2026-08-29,atomic-matcha,Praha 8,vracející se
+C0571,Filip,Bednář,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 169,2026-09-08,yes-kafe-wine,Praha 8,jednorázový
+C0572,Eva,Němcová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 757,2026-06-18,miners-komunardu,Praha 7,vracející se
+C0573,Mikuláš,Štěpánek,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 991,2026-09-23,miners-bakery,Praha 8,jednorázový
+C0574,Denis,Černý,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 351,2026-09-01,miners-komunardu,Praha 7,jednorázový
+C0575,Karel,Hájek,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 400,2026-08-20,basics-palladium-plus2,Praha 1,jednorázový
+C0576,Alžběta,Musilová,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 697,2026-10-05,espressocono,Praha 3,jednorázový
+C0577,Vladimír,Štěpánek,M,35–44,ranní dojíždějící,web,+420 6** *** 213,2026-10-06,basics-palladium-plus2,Praha 1,vracející se
+C0578,Karolína,Lukášová,Ž,25–34,odpolední pauza,iOS aplikace,+420 6** *** 986,2026-10-07,miners-karlin,Praha 8,vracející se
+C0579,Petr,Dostál,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 784,2026-08-29,version,Praha 2,jednorázový
+C0580,Lenka,Kovářová,Ž,35–44,víkendový brunch,web,+420 6** *** 903,2026-05-14,ema-krizikova,Praha 8,vracející se
+C0581,Matěj,Charvát,M,18–24,student,iOS aplikace,+420 7** *** 200,2026-09-17,cafe-jen,Praha 10,jednorázový
+C0582,Vít,Marek,M,18–24,student,iOS aplikace,+420 7** *** 366,2026-09-14,kafe-karlin,Praha 8,vracející se
+C0583,Libor,Tichý,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 918,2026-10-05,ema-krizikova,Praha 8,jednorázový
+C0584,Nela,Řezníčková,Ž,35–44,odpolední pauza,iOS aplikace,+420 6** *** 075,2026-10-08,miners-karlin,Praha 8,jednorázový
+C0585,Marie,Sýkorová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 278,2026-09-20,loka-doubleshot,Praha 1,jednorázový
+C0586,Patrik,Šindelář,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 098,2026-08-31,mamacoffee-londynska,Praha 2,jednorázový
+C0587,Sára,Havlíčková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 895,2026-08-02,basics-palladium-plus2,Praha 1,vracející se
+C0588,Kryštof,Kolář,M,25–34,odpolední pauza,web,+420 6** *** 618,2026-09-19,dobra-trafika,Praha 1,vracející se
+C0589,Vít,Hrubý,M,18–24,odpolední pauza,web,+420 6** *** 108,2026-09-09,miners-maj,Praha 1,jednorázový
+C0590,Rozálie,Moravcová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 389,2026-07-17,miners-roastery,Praha 8,vracející se
+C0591,Radka,Lukášová,Ž,18–24,student,iOS aplikace,+420 7** *** 464,2026-05-12,mamacoffee-podolska,Praha 4,vracející se
+C0592,Milan,Moravec,M,18–24,student,iOS aplikace,+420 7** *** 897,2026-06-21,basics-palladium-minus2,Praha 1,vracející se
+C0593,Kamila,Poláková,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 578,2026-09-29,kavarna-slavia,Praha 1,jednorázový
+C0594,Johana,Malá,Ž,35–44,odpolední pauza,web,+420 6** *** 253,2026-06-03,miners-old-town,Praha 1,vracející se
+C0595,Stanislav,Kovář,M,18–24,odpolední pauza,web,+420 6** *** 561,2026-04-28,basics-borislavka,Praha 6,vracející se
+C0596,Aneta,Bartošová,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 759,2026-09-17,la-terra-coffee,Praha 2,vracející se
+C0597,Oliver,Doležal,M,18–24,student,web,+420 6** *** 194,2026-10-09,miners-komunardu,Praha 7,jednorázový
+C0598,Julie,Vaněková,Ž,35–44,ranní dojíždějící,web,+420 7** *** 322,2026-09-06,ema-espresso,Praha 1,vracející se
+C0599,Matěj,Dušek,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 959,2026-06-14,miners-roastery,Praha 8,vracející se
+C0600,Josef,Vlček,M,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 603,2026-04-26,miners-port7,Praha 7,vracející se
+C0601,Nikola,Řezníčková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 883,2026-09-14,kaaba,Praha 2,vracející se
+C0602,Jana,Vávrová,Ž,18–24,student,iOS aplikace,+420 7** *** 005,2026-05-07,one-sip-coffee,Praha 1,vracející se
+C0603,Hynek,Kašpar,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 971,2026-09-26,miners-florentium,Praha 1,jednorázový
+C0604,Hynek,Vávra,M,35–44,ranní dojíždějící,web,+420 6** *** 537,2026-09-17,basics-palladium-minus2,Praha 1,vracející se
+C0605,Denisa,Kučerová,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 598,2026-09-25,miners-jzp,Praha 2,jednorázový
+C0606,Kamila,Pospíšilová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 211,2026-09-21,ema-krizikova,Praha 8,vracející se
+C0607,Johana,Poláková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 558,2026-08-22,miners-maj,Praha 1,jednorázový
+C0608,Markéta,Říhová,Ž,25–34,student,web,+420 6** *** 586,2026-08-29,ollivers-coffee-cup,Praha 1,jednorázový
+C0609,Šimon,Král,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 094,2026-05-21,coffee-room,Praha 2,vracející se
+C0610,Iveta,Šindelářová,Ž,45–54,odpolední pauza,web,+420 6** *** 637,2026-08-07,basics-borislavka,Praha 6,vracející se
+C0611,Robert,Bednář,M,25–34,kancelář – oběd,web,+420 6** *** 345,2026-05-23,21-coffee,Praha 1,vracející se
+C0612,Martin,Dostál,M,18–24,student,iOS aplikace,+420 7** *** 374,2026-08-17,basics-borislavka,Praha 6,vracející se
+C0613,Kryštof,Moravec,M,35–44,víkendový brunch,iOS aplikace,+420 6** *** 500,2026-09-29,kavarna-slavia,Praha 1,jednorázový
+C0614,Kamila,Horáková,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 020,2026-08-31,bakeshop,Praha 1,jednorázový
+C0615,Vojtěch,Žák,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 208,2026-07-13,ema-espresso,Praha 1,vracející se
+C0616,Markéta,Hájková,Ž,25–34,víkendový brunch,web,+420 7** *** 077,2026-08-19,miners-churchill,Praha 2,jednorázový
+C0617,Iveta,Marková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 932,2026-04-17,miners-port7,Praha 7,vracející se
+C0618,Eva,Pavlíková,Ž,25–34,student,iOS aplikace,+420 6** *** 710,2026-09-23,ema-krizikova,Praha 8,vracející se
+C0619,Patrik,Mašek,M,45–54,víkendový brunch,iOS aplikace,+420 7** *** 415,2026-09-27,mamacoffee-londynska,Praha 2,jednorázový
+C0620,Karel,Horák,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 102,2026-09-08,miners-jzp,Praha 2,jednorázový
+C0621,Sebastian,Urban,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 530,2026-08-22,ema-komunardu,Praha 7,jednorázový
+C0622,David,Žák,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 308,2026-10-03,one-sip-coffee,Praha 1,vracející se
+C0623,Filip,Hruška,M,18–24,student,web,+420 7** *** 106,2026-10-02,miners-florentium,Praha 1,jednorázový
+C0624,Magdaléna,Navrátilová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 862,2026-09-03,miners-florentium,Praha 1,jednorázový
+C0625,Petra,Benešová,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 465,2026-04-27,prazirna,Praha 2,vracející se
+C0626,Julie,Hrubá,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 754,2026-05-02,miners-komunardu,Praha 7,vracející se
+C0627,Radka,Šindelářová,Ž,45–54,odpolední pauza,iOS aplikace,+420 6** *** 734,2026-07-02,miners-old-town,Praha 1,vracející se
+C0628,Markéta,Kubíčková,Ž,25–34,student,iOS aplikace,+420 6** *** 321,2026-10-08,miners-old-town,Praha 1,vracející se
+C0629,Michaela,Vaněková,Ž,35–44,ranní dojíždějící,web,+420 6** *** 630,2026-09-26,basics-borislavka,Praha 6,jednorázový
+C0630,Patrik,Hájek,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 695,2026-09-24,cafe-nezisk-mamacoffee-pohorelec,Praha 1,vracející se
+C0631,Aleš,Jelínek,M,35–44,ranní dojíždějící,web,+420 6** *** 966,2026-05-09,kafe-v-klidu,Praha 1,vracející se
+C0632,Adam,Jelínek,M,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 369,2026-09-09,ala-coffee,Praha 9,vracející se
+C0633,Jakub,Bednář,M,55+,víkendový brunch,web,+420 7** *** 168,2026-05-21,light-roast,Praha 8,vracející se
+C0634,Lucie,Růžičková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 654,2026-09-09,miners-jzp,Praha 2,jednorázový
+C0635,Magdaléna,Poláková,Ž,18–24,student,web,+420 7** *** 945,2026-09-07,ema-svetova,Praha 8,vracející se
+C0636,Milan,Bartoš,M,25–34,víkendový brunch,web,+420 7** *** 524,2026-07-31,miners-florentium,Praha 1,vracející se
+C0637,Daniel,Hronek,M,25–34,student,iOS aplikace,+420 7** *** 926,2026-09-30,industra-holesovice,Praha 7,vracející se
+C0638,Monika,Sedláčková,Ž,18–24,student,web,+420 7** *** 605,2026-09-03,ema-espresso,Praha 1,vracející se
+C0639,Adéla,Pospíšilová,Ž,18–24,student,web,+420 7** *** 720,2026-09-25,miners-roastery,Praha 8,vracející se
+C0640,Veronika,Lukášová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 460,2026-09-07,miners-port7,Praha 7,jednorázový
+C0641,Marek,Mareš,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 804,2026-07-14,ema-svetova,Praha 8,vracející se
+C0642,Jiří,Černý,M,25–34,odpolední pauza,web,+420 7** *** 549,2026-09-15,miners-jzp,Praha 2,jednorázový
+C0643,Miroslav,Kopecký,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 312,2026-09-26,miners-jzp,Praha 2,vracející se
+C0644,Nikola,Kučerová,Ž,18–24,ranní dojíždějící,web,+420 7** *** 127,2026-06-29,misto,Praha 6,vracející se
+C0645,Lukáš,Kolář,M,35–44,odpolední pauza,web,+420 6** *** 766,2026-04-29,ema-svetova,Praha 8,vracející se
+C0646,Mikuláš,Doležal,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 540,2026-09-21,industra-holesovice,Praha 7,vracející se
+C0647,Zdeněk,Sýkora,M,18–24,odpolední pauza,iOS aplikace,+420 6** *** 722,2026-10-03,ala-coffee,Praha 9,jednorázový
+C0648,Simona,Tichá,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 893,2026-09-08,basics-palladium-plus2,Praha 1,jednorázový
+C0649,Hynek,Mach,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 323,2026-09-29,miners-bakery,Praha 8,vracející se
+C0650,Barbora,Poláková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 006,2026-10-07,basics-palladium-minus2,Praha 1,jednorázový
+C0651,Adam,Matoušek,M,35–44,ranní dojíždějící,web,+420 6** *** 590,2026-08-19,miners-borislavka,Praha 6,vracející se
+C0652,Šimon,Zeman,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 030,2026-09-29,basics-palladium-minus2,Praha 1,vracející se
+C0653,Kateřina,Havlíčková,Ž,18–24,student,iOS aplikace,+420 6** *** 180,2026-08-03,cafe-jen,Praha 10,vracející se
+C0654,Jaroslav,Holub,M,25–34,ranní dojíždějící,web,+420 6** *** 089,2026-08-16,kafe-karlin,Praha 8,jednorázový
+C0655,Karolína,Horová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 307,2026-05-05,miners-maj,Praha 1,vracející se
+C0656,Igor,Růžička,M,25–34,odpolední pauza,web,+420 7** *** 530,2026-10-08,ema-komunardu,Praha 7,vracející se
+C0657,Lukáš,Pokorný,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 348,2026-09-19,globe-bookstore-cafe,Praha 1,jednorázový
+C0658,Zdeňka,Marešová,Ž,18–24,student,web,+420 7** *** 499,2026-09-22,monolok,Praha 2,jednorázový
+C0659,Matěj,Bláha,M,18–24,student,web,+420 7** *** 341,2026-10-08,miners-old-town,Praha 1,jednorázový
+C0660,Klára,Tichá,Ž,45–54,kancelář – oběd,iOS aplikace,+420 6** *** 213,2026-09-24,cafefin,Praha 2,vracející se
+C0661,Filip,Brabec,M,18–24,student,web,+420 6** *** 979,2026-05-27,ema-krizikova,Praha 8,vracející se
+C0662,Roman,Brabec,M,18–24,student,iOS aplikace,+420 7** *** 056,2026-08-25,ema-krizikova,Praha 8,vracející se
+C0663,Bára,Řezníčková,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 921,2026-08-23,miners-komunardu,Praha 7,vracející se
+C0664,Sára,Říhová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 690,2026-09-17,miners-maj,Praha 1,jednorázový
+C0665,Eva,Vrbová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 071,2026-09-28,miners-karlin,Praha 8,vracející se
+C0666,Patrik,Bláha,M,25–34,víkendový brunch,web,+420 6** *** 664,2026-05-09,ema-espresso,Praha 1,vracející se
+C0667,Alžběta,Sýkorová,Ž,25–34,víkendový brunch,web,+420 6** *** 816,2026-09-29,miners-maj,Praha 1,vracející se
+C0668,Radek,Čermák,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 200,2026-10-06,industra-holesovice,Praha 7,vracející se
+C0669,Gabriela,Šimková,Ž,55+,odpolední pauza,iOS aplikace,+420 6** *** 901,2026-06-17,miners-borislavka,Praha 6,vracející se
+C0670,Ondřej,Žák,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 813,2026-05-12,miners-old-town,Praha 1,vracející se
+C0671,Richard,Mašek,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 791,2026-06-12,ema-espresso,Praha 1,vracející se
+C0672,Josef,Fiala,M,45–54,ranní dojíždějící,web,+420 7** *** 485,2026-09-21,kafe-v-klidu,Praha 1,jednorázový
+C0673,Jana,Charvátová,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 841,2026-09-01,miners-florentium,Praha 1,jednorázový
+C0674,Rozálie,Navrátilová,Ž,35–44,kancelář – oběd,web,+420 6** *** 852,2026-09-25,miners-florentium,Praha 1,jednorázový
+C0675,Lada,Dostálová,Ž,45–54,víkendový brunch,iOS aplikace,+420 6** *** 346,2026-10-04,ema-krizikova,Praha 8,jednorázový
+C0676,Julie,Štěpánková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 550,2026-10-06,misto,Praha 6,vracející se
+C0677,Simona,Soukupová,Ž,18–24,student,iOS aplikace,+420 7** *** 992,2026-10-06,spell-coffee,Praha 1,vracející se
+C0678,Jan,Zeman,M,55+,víkendový brunch,iOS aplikace,+420 7** *** 846,2026-07-03,miners-karlin,Praha 8,vracející se
+C0679,Rozálie,Machová,Ž,18–24,student,iOS aplikace,+420 6** *** 033,2026-10-01,ema-espresso,Praha 1,vracející se
+C0680,Eva,Horová,Ž,35–44,odpolední pauza,iOS aplikace,+420 7** *** 317,2026-08-31,cafe-rybka,Praha 1,vracející se
+C0681,Aneta,Skálová,Ž,18–24,student,iOS aplikace,+420 6** *** 679,2026-07-15,globe-bookstore-cafe,Praha 1,vracející se
+C0682,Monika,Holubová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 140,2026-09-16,miners-victoria-palace,Praha 6,jednorázový
+C0683,Libor,Hruška,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 214,2026-10-06,kavarna-slavia,Praha 1,vracející se
+C0684,Monika,Marešová,Ž,35–44,kancelář – oběd,web,+420 6** *** 687,2026-09-09,miners-bakery,Praha 8,jednorázový
+C0685,Sára,Konečná,Ž,55+,víkendový brunch,iOS aplikace,+420 7** *** 455,2026-10-07,miners-charles-bridge,Praha 1,vracející se
+C0686,Anna,Dušková,Ž,25–34,student,web,+420 6** *** 855,2026-08-27,miners-charles-bridge,Praha 1,vracející se
+C0687,Aleš,Urban,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 553,2026-09-21,miners-borislavka,Praha 6,jednorázový
+C0688,Daniela,Procházková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 490,2026-10-11,cafe-neustadt,Praha 2,jednorázový
+C0689,Michal,Hájek,M,18–24,student,iOS aplikace,+420 6** *** 001,2026-07-09,miners-bakery,Praha 8,vracející se
+C0690,Michaela,Řezníčková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 633,2026-06-23,ema-krizikova,Praha 8,vracející se
+C0691,Jiří,Tichý,M,35–44,ranní dojíždějící,web,+420 6** *** 221,2026-06-06,basics-palladium-plus2,Praha 1,vracející se
+C0692,Ema,Štěpánková,Ž,18–24,student,iOS aplikace,+420 6** *** 435,2026-10-01,ema-espresso,Praha 1,jednorázový
+C0693,Markéta,Navrátilová,Ž,18–24,student,web,+420 7** *** 677,2026-09-24,elvira-cafe,Praha 5,vracející se
+C0694,Linda,Králová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 205,2026-07-09,miners-charles-bridge,Praha 1,vracející se
+C0695,Zdeněk,Skála,M,35–44,ranní dojíždějící,web,+420 7** *** 689,2026-07-29,miners-karlin,Praha 8,vracející se
+C0696,Stanislav,Svoboda,M,18–24,student,iOS aplikace,+420 7** *** 710,2026-08-23,miners-old-town,Praha 1,jednorázový
+C0697,Tadeáš,Král,M,18–24,student,web,+420 7** *** 533,2026-08-03,cafe-ebel-kaprova,Praha 1,vracející se
+C0698,Kristýna,Musilová,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 914,2026-06-09,basics-palladium-minus2,Praha 1,vracející se
+C0699,Milan,Dvořák,M,25–34,student,web,+420 7** *** 531,2026-10-04,miners-charles-bridge,Praha 1,vracející se
+C0700,Daniela,Moravcová,Ž,25–34,kancelář – oběd,web,+420 7** *** 159,2026-09-20,la-boheme-cafe,Praha 2,jednorázový
+C0701,Adam,Havlíček,M,18–24,student,iOS aplikace,+420 6** *** 147,2026-08-22,miners-charles-bridge,Praha 1,vracející se
+C0702,Ladislav,Kříž,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 956,2026-05-26,miners-bakery,Praha 8,vracející se
+C0703,Simona,Doležalová,Ž,45–54,odpolední pauza,iOS aplikace,+420 7** *** 974,2026-08-28,miners-borislavka,Praha 6,jednorázový
+C0704,Zdeněk,Kovář,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 395,2026-09-20,kafe-v-klidu,Praha 1,jednorázový
+C0705,Ema,Kopecká,Ž,35–44,ranní dojíždějící,web,+420 6** *** 051,2026-06-03,prosekarna,Praha 2,vracející se
+C0706,Barbora,Brabcová,Ž,55+,odpolední pauza,web,+420 6** *** 522,2026-05-13,cafe-neustadt,Praha 2,vracející se
+C0707,Jan,Hora,M,18–24,student,web,+420 7** *** 447,2026-09-19,basics-palladium-minus2,Praha 1,jednorázový
+C0708,Radka,Kadlcová,Ž,25–34,kancelář – oběd,web,+420 6** *** 675,2026-08-22,miners-maj,Praha 1,vracející se
+C0709,Kryštof,Valenta,M,55+,odpolední pauza,web,+420 6** *** 424,2026-07-07,miners-roastery,Praha 8,vracející se
+C0710,Veronika,Vaněková,Ž,18–24,student,iOS aplikace,+420 6** *** 517,2026-10-04,cafe-peron,Praha 5,jednorázový
+C0711,Petra,Hronková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 345,2026-08-28,kofarna-cafe,Praha 5,jednorázový
+C0712,Michal,Horák,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 933,2026-08-20,miners-churchill,Praha 2,jednorázový
+C0713,Simona,Machová,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 511,2026-09-27,miners-maj,Praha 1,jednorázový
+C0714,Pavel,Kopecký,M,18–24,student,web,+420 6** *** 229,2026-06-12,miners-maj,Praha 1,vracející se
+C0715,Šárka,Šindelářová,Ž,45–54,kancelář – oběd,web,+420 7** *** 973,2026-07-11,miners-churchill,Praha 2,vracející se
+C0716,Sebastian,Beneš,M,35–44,víkendový brunch,iOS aplikace,+420 7** *** 914,2026-10-11,ema-komunardu,Praha 7,jednorázový
+C0717,Václav,Hájek,M,18–24,student,web,+420 7** *** 577,2026-08-26,ema-espresso,Praha 1,vracející se
+C0718,Anna,Šindelářová,Ž,18–24,student,web,+420 7** *** 375,2026-10-06,kafe-karlin,Praha 8,vracející se
+C0719,Libor,Vlček,M,35–44,odpolední pauza,web,+420 6** *** 017,2026-09-20,basics-borislavka,Praha 6,vracející se
+C0720,Šimon,Štěpánek,M,25–34,ranní dojíždějící,web,+420 7** *** 050,2026-09-20,mamacoffee-podolska,Praha 4,jednorázový
+C0721,Kristýna,Černá,Ž,35–44,odpolední pauza,iOS aplikace,+420 7** *** 467,2026-08-23,miners-port7,Praha 7,jednorázový
+C0722,Martin,Kubíček,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 934,2026-07-11,miners-jzp,Praha 2,vracející se
+C0723,Vojtěch,Moravec,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 199,2026-04-16,miners-komunardu,Praha 7,vracející se
+C0724,Magdaléna,Marešová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 056,2026-06-15,basics-palladium-minus2,Praha 1,vracející se
+C0725,Michal,Novotný,M,45–54,kancelář – oběd,web,+420 6** *** 615,2026-05-04,basics-borislavka,Praha 6,vracející se
+C0726,Denis,Kubíček,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 491,2026-08-28,basics-palladium-plus2,Praha 1,jednorázový
+C0727,Karolína,Sedláčková,Ž,18–24,student,iOS aplikace,+420 6** *** 444,2026-07-12,spell-coffee,Praha 1,vracející se
+C0728,Sára,Šťastná,Ž,25–34,ranní dojíždějící,web,+420 7** *** 936,2026-09-24,basics-borislavka,Praha 6,vracející se
+C0729,Daniel,Kříž,M,18–24,student,web,+420 7** *** 076,2026-10-05,miners-roastery,Praha 8,vracející se
+C0730,Antonín,Hronek,M,25–34,víkendový brunch,web,+420 6** *** 210,2026-10-06,bitcoin-coffee,Praha 7,vracející se
+C0731,Anna,Kašparová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 935,2026-06-29,ema-krizikova,Praha 8,vracející se
+C0732,Jana,Černá,Ž,35–44,víkendový brunch,web,+420 7** *** 854,2026-09-08,elvira-cafe,Praha 5,vracející se
+C0733,Aneta,Matoušková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 321,2026-10-01,ema-svetova,Praha 8,jednorázový
+C0734,Viktor,Beneš,M,18–24,odpolední pauza,iOS aplikace,+420 6** *** 527,2026-10-11,basics-borislavka,Praha 6,jednorázový
+C0735,Karel,Pospíšil,M,25–34,student,iOS aplikace,+420 7** *** 068,2026-05-19,basics-borislavka,Praha 6,vracející se
+C0736,Milan,Soukup,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 194,2026-09-09,spell-coffee,Praha 1,vracející se
+C0737,Klára,Brabcová,Ž,18–24,ranní dojíždějící,web,+420 6** *** 441,2026-09-13,ema-komunardu,Praha 7,jednorázový
+C0738,Julie,Černá,Ž,18–24,ranní dojíždějící,web,+420 7** *** 651,2026-05-31,ema-espresso,Praha 1,vracející se
+C0739,Richard,Holub,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 792,2026-05-16,cafe-neustadt,Praha 2,vracející se
+C0740,Robert,Mach,M,18–24,student,iOS aplikace,+420 6** *** 994,2026-07-03,miners-churchill,Praha 2,vracející se
+C0741,Pavel,Kovář,M,18–24,student,web,+420 6** *** 685,2026-09-30,miners-letna,Praha 7,jednorázový
+C0742,Tomáš,Bláha,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 948,2026-07-08,ippa-cafe,Praha 6,vracející se
+C0743,Jakub,Dostál,M,25–34,student,iOS aplikace,+420 7** *** 075,2026-07-29,monolok,Praha 2,vracející se
+C0744,Zuzana,Marková,Ž,35–44,kancelář – oběd,web,+420 6** *** 287,2026-09-06,i-need-coffee,Praha 2,jednorázový
+C0745,Dominik,Beneš,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 229,2026-09-29,cafe-neustadt,Praha 2,jednorázový
+C0746,Petr,Vaněk,M,25–34,kancelář – oběd,web,+420 7** *** 819,2026-08-17,miners-maj,Praha 1,vracející se
+C0747,Miroslav,Hanák,M,18–24,student,web,+420 6** *** 697,2026-09-15,miners-borislavka,Praha 6,jednorázový
+C0748,Sára,Blažková,Ž,35–44,kancelář – oběd,web,+420 6** *** 814,2026-05-17,cafe-peron,Praha 5,vracející se
+C0749,Matěj,Kubíček,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 837,2026-06-04,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0750,Richard,Tichý,M,35–44,kancelář – oběd,web,+420 6** *** 054,2026-10-06,miners-borislavka,Praha 6,vracející se
+C0751,Karolína,Urbanová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 497,2026-07-17,miners-komunardu,Praha 7,vracející se
+C0752,Karolína,Hanáková,Ž,35–44,ranní dojíždějící,web,+420 6** *** 372,2026-08-25,miners-charles-bridge,Praha 1,jednorázový
+C0753,Anna,Křížová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 681,2026-05-23,coffee-source,Praha 2,vracející se
+C0754,Hynek,Bednář,M,35–44,ranní dojíždějící,web,+420 6** *** 963,2026-09-24,miners-roastery,Praha 8,jednorázový
+C0755,Julie,Šťastná,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 450,2026-09-28,basics-palladium-minus2,Praha 1,jednorázový
+C0756,Rozálie,Čermáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 236,2026-06-08,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0757,Bára,Zemanová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 655,2026-08-23,basics-palladium-minus2,Praha 1,jednorázový
+C0758,Johana,Urbanová,Ž,18–24,student,iOS aplikace,+420 6** *** 466,2026-08-24,objekt-kafe,Praha 1,vracející se
+C0759,Aneta,Sedláčková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 087,2026-05-16,miners-letna,Praha 7,vracející se
+C0760,Pavel,Matoušek,M,45–54,odpolední pauza,web,+420 6** *** 377,2026-08-25,version,Praha 2,vracející se
+C0761,Pavel,Konečný,M,18–24,student,web,+420 6** *** 905,2026-05-11,miners-churchill,Praha 2,vracející se
+C0762,Bára,Machová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 022,2026-08-25,miners-karlin,Praha 8,vracející se
+C0763,Lucie,Hájková,Ž,25–34,ranní dojíždějící,web,+420 6** *** 422,2026-07-19,miners-florentium,Praha 1,vracející se
+C0764,Aleš,Malý,M,35–44,kancelář – oběd,web,+420 6** *** 084,2026-09-16,miners-jzp,Praha 2,jednorázový
+C0765,Kristýna,Blažková,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 479,2026-09-22,kaaba,Praha 2,jednorázový
+C0766,Martina,Kratochvílová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 514,2026-09-18,miners-jzp,Praha 2,vracející se
+C0767,Tereza,Růžičková,Ž,35–44,odpolední pauza,iOS aplikace,+420 7** *** 254,2026-05-15,loka-doubleshot,Praha 1,vracející se
+C0768,Ivana,Lukášová,Ž,25–34,student,web,+420 6** *** 011,2026-09-27,atomic-matcha,Praha 8,vracející se
+C0769,Kateřina,Žáková,Ž,18–24,student,iOS aplikace,+420 6** *** 807,2026-06-17,miners-maj,Praha 1,vracející se
+C0770,Lenka,Sedláčková,Ž,18–24,student,web,+420 7** *** 337,2026-09-20,miners-old-town,Praha 1,jednorázový
+C0771,Milan,Lukáš,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 370,2026-06-09,miners-jzp,Praha 2,vracející se
+C0772,Richard,Horák,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 109,2026-05-23,miners-komunardu,Praha 7,vracející se
+C0773,Jan,Růžička,M,18–24,student,iOS aplikace,+420 6** *** 736,2026-07-28,miners-roastery,Praha 8,vracející se
+C0774,Ladislav,Blažek,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 046,2026-05-26,miners-karlin,Praha 8,vracející se
+C0775,Štěpán,Kašpar,M,35–44,ranní dojíždějící,web,+420 6** *** 288,2026-09-22,miners-charles-bridge,Praha 1,jednorázový
+C0776,Nikola,Hájková,Ž,25–34,student,iOS aplikace,+420 6** *** 812,2026-08-29,miners-florentium,Praha 1,vracející se
+C0777,Roman,Pavlík,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 784,2026-05-04,ema-espresso,Praha 1,vracející se
+C0778,Zuzana,Kašparová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 253,2026-05-03,basics-borislavka,Praha 6,vracející se
+C0779,Adéla,Zemanová,Ž,35–44,ranní dojíždějící,web,+420 7** *** 442,2026-09-16,cafe-ebel-kaprova,Praha 1,jednorázový
+C0780,Denis,Holub,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 182,2026-08-14,bistro-monk,Praha 1,jednorázový
+C0781,Ladislav,Marek,M,18–24,student,iOS aplikace,+420 7** *** 183,2026-09-19,mamacoffee-podolska,Praha 4,vracející se
+C0782,Šimon,Kubíček,M,25–34,ranní dojíždějící,web,+420 7** *** 240,2026-05-21,miners-old-town,Praha 1,vracející se
+C0783,Daniela,Svobodová,Ž,45–54,kancelář – oběd,web,+420 7** *** 191,2026-06-10,miners-borislavka,Praha 6,vracející se
+C0784,Eva,Kovářová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 279,2026-09-24,miners-churchill,Praha 2,jednorázový
+C0785,Tereza,Veselá,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 472,2026-09-29,miners-churchill,Praha 2,jednorázový
+C0786,Sebastian,Charvát,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 291,2026-09-23,miners-jzp,Praha 2,vracející se
+C0787,Ema,Holubová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 441,2026-04-24,one-sip-coffee,Praha 1,vracející se
+C0788,Michaela,Šťastná,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 388,2026-09-13,atomic-matcha,Praha 8,vracející se
+C0789,Barbora,Štěpánková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 557,2026-08-27,miners-maj,Praha 1,jednorázový
+C0790,Jana,Brabcová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 008,2026-06-11,basics-palladium-minus2,Praha 1,vracející se
+C0791,Adéla,Machová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 037,2026-08-16,industra-holesovice,Praha 7,jednorázový
+C0792,Eliška,Mašková,Ž,35–44,víkendový brunch,iOS aplikace,+420 6** *** 946,2026-04-17,bakeshop,Praha 1,vracející se
+C0793,Matěj,Černý,M,55+,víkendový brunch,iOS aplikace,+420 6** *** 462,2026-09-03,kafe-karlin,Praha 8,jednorázový
+C0794,Rozálie,Němcová,Ž,45–54,ranní dojíždějící,web,+420 6** *** 990,2026-08-14,miners-komunardu,Praha 7,jednorázový
+C0795,Gabriela,Králová,Ž,18–24,student,web,+420 6** *** 755,2026-04-23,bakeshop,Praha 1,vracející se
+C0796,Štěpán,Lukáš,M,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 476,2026-09-23,miners-jzp,Praha 2,jednorázový
+C0797,Linda,Hrušková,Ž,18–24,student,web,+420 7** *** 169,2026-09-14,miners-charles-bridge,Praha 1,vracející se
+C0798,Iveta,Ševčíková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 740,2026-10-01,basics-palladium-minus2,Praha 1,vracející se
+C0799,Vendula,Kučerová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 109,2026-09-18,ema-espresso,Praha 1,vracející se
+C0800,Vít,Pavlík,M,45–54,ranní dojíždějící,web,+420 6** *** 745,2026-08-15,basics-palladium-minus2,Praha 1,jednorázový
+C0801,Milan,Vaněk,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 087,2026-06-20,miners-roastery,Praha 8,vracející se
+C0802,Oliver,Bednář,M,25–34,ranní dojíždějící,web,+420 6** *** 134,2026-09-21,cafeidoskop,Praha 1,jednorázový
+C0803,Iveta,Holubová,Ž,35–44,víkendový brunch,iOS aplikace,+420 7** *** 795,2026-09-08,industra-holesovice,Praha 7,jednorázový
+C0804,Sebastian,Štěpánek,M,18–24,student,iOS aplikace,+420 6** *** 052,2026-08-23,atomic-matcha,Praha 8,vracející se
+C0805,Milan,Pospíšil,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 596,2026-06-29,miners-bakery,Praha 8,vracející se
+C0806,Aneta,Sýkorová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 671,2026-08-23,cafe-jen,Praha 10,vracející se
+C0807,Filip,Fiala,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 826,2026-09-08,miners-maj,Praha 1,jednorázový
+C0808,Nikola,Bartošová,Ž,18–24,student,web,+420 7** *** 800,2026-04-26,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0809,Jan,Štěpánek,M,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 805,2026-09-10,mistral-cafe,Praha 1,vracející se
+C0810,Pavla,Fialová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 356,2026-09-14,miners-maj,Praha 1,vracející se
+C0811,Jan,Hronek,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 266,2026-04-21,monolok,Praha 2,vracející se
+C0812,Roman,Mach,M,18–24,student,iOS aplikace,+420 7** *** 931,2026-07-13,mamacoffee-londynska,Praha 2,vracející se
+C0813,Patrik,Vaněk,M,25–34,kancelář – oběd,web,+420 7** *** 708,2026-05-16,miners-maj,Praha 1,vracející se
+C0814,Zdeněk,Sedláček,M,25–34,kancelář – oběd,web,+420 7** *** 525,2026-08-28,miners-karlin,Praha 8,jednorázový
+C0815,Kryštof,Mareš,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 470,2026-09-01,miners-florentium,Praha 1,jednorázový
+C0816,Gabriela,Kučerová,Ž,25–34,student,web,+420 7** *** 018,2026-08-17,basics-palladium-minus2,Praha 1,vracející se
+C0817,Nela,Pospíšilová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 139,2026-08-31,miners-roastery,Praha 8,vracející se
+C0818,Tomáš,Konečný,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 296,2026-10-01,miners-old-town,Praha 1,jednorázový
+C0819,Vladimír,Novotný,M,25–34,odpolední pauza,web,+420 7** *** 217,2026-05-19,cheecup,Praha 4,vracející se
+C0820,Nela,Tichá,Ž,25–34,student,iOS aplikace,+420 6** *** 159,2026-09-27,ema-komunardu,Praha 7,vracející se
+C0821,Zdeňka,Bartošová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 742,2026-08-21,mamacoffee-podolska,Praha 4,jednorázový
+C0822,Zdeněk,Němec,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 659,2026-09-13,kafe-karlin,Praha 8,vracející se
+C0823,Johana,Jelínková,Ž,45–54,kancelář – oběd,iOS aplikace,+420 6** *** 202,2026-10-04,miners-letna,Praha 7,jednorázový
+C0824,Lenka,Dostálová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 519,2026-09-14,loka-doubleshot,Praha 1,jednorázový
+C0825,Veronika,Kadlcová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 156,2026-09-25,miners-old-town,Praha 1,vracející se
+C0826,Johana,Říhová,Ž,25–34,kancelář – oběd,web,+420 6** *** 767,2026-05-14,monolok,Praha 2,vracející se
+C0827,Vendula,Říhová,Ž,55+,víkendový brunch,web,+420 7** *** 664,2026-09-21,ema-espresso,Praha 1,jednorázový
+C0828,Zuzana,Valentová,Ž,18–24,student,iOS aplikace,+420 6** *** 378,2026-07-19,miners-komunardu,Praha 7,vracející se
+C0829,Julie,Svobodová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 994,2026-09-13,miners-old-town,Praha 1,vracející se
+C0830,Ladislav,Bureš,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 603,2026-10-06,ema-espresso,Praha 1,vracející se
+C0831,Marie,Jandová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 679,2026-09-07,miners-maj,Praha 1,jednorázový
+C0832,Daniela,Němcová,Ž,35–44,kancelář – oběd,web,+420 7** *** 882,2026-05-10,miners-karlin,Praha 8,vracející se
+C0833,Monika,Pospíšilová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 440,2026-07-27,miners-bakery,Praha 8,vracející se
+C0834,Michaela,Tomanová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 689,2026-06-24,basics-palladium-plus2,Praha 1,vracející se
+C0835,Linda,Benešová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 920,2026-09-29,miners-maj,Praha 1,vracející se
+C0836,Matyáš,Dvořák,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 955,2026-08-02,miners-churchill,Praha 2,vracející se
+C0837,Adéla,Svobodová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 681,2026-09-05,miners-komunardu,Praha 7,vracející se
+C0838,Dominika,Pospíšilová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 021,2026-09-25,miners-port7,Praha 7,jednorázový
+C0839,Radka,Žáková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 221,2026-08-26,ema-krizikova,Praha 8,jednorázový
+C0840,Hana,Hanáková,Ž,35–44,kancelář – oběd,web,+420 6** *** 880,2026-07-17,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0841,Jiří,Toman,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 614,2026-06-15,basics-palladium-minus2,Praha 1,vracející se
+C0842,Michaela,Hanáková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 184,2026-04-24,miners-victoria-palace,Praha 6,vracející se
+C0843,Lenka,Šindelářová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 237,2026-09-24,miners-karlin,Praha 8,vracející se
+C0844,Adam,Hrubý,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 864,2026-05-07,periferie-cafe,Praha 4,vracející se
+C0845,Kryštof,Holub,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 216,2026-08-06,moment-cafe,Praha 2,vracející se
+C0846,Iveta,Konečná,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 597,2026-08-20,objekt-kafe,Praha 1,jednorázový
+C0847,Michal,Marek,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 737,2026-09-12,ema-espresso,Praha 1,jednorázový
+C0848,Lucie,Bednářová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 263,2026-05-29,kofarna-cafe,Praha 5,vracející se
+C0849,Julie,Blažková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 136,2026-07-27,basics-palladium-plus2,Praha 1,vracející se
+C0850,Jan,Vrba,M,25–34,ranní dojíždějící,web,+420 6** *** 167,2026-07-22,coffee-room,Praha 2,vracející se
+C0851,Viktorie,Hrušková,Ž,25–34,student,iOS aplikace,+420 6** *** 488,2026-05-15,miners-old-town,Praha 1,vracející se
+C0852,Michal,Moravec,M,25–34,student,iOS aplikace,+420 7** *** 621,2026-04-23,cafe-ebel-kaprova,Praha 1,vracející se
+C0853,Igor,Čermák,M,18–24,student,iOS aplikace,+420 7** *** 775,2026-09-16,miners-port7,Praha 7,vracející se
+C0854,Daniel,Malý,M,35–44,kancelář – oběd,web,+420 6** *** 982,2026-09-10,ema-krizikova,Praha 8,vracející se
+C0855,Lada,Pavlíková,Ž,18–24,student,iOS aplikace,+420 7** *** 645,2026-06-27,basics-palladium-minus2,Praha 1,vracející se
+C0856,Zdeňka,Kučerová,Ž,25–34,odpolední pauza,web,+420 6** *** 416,2026-05-28,miners-victoria-palace,Praha 6,vracející se
+C0857,Martin,Růžička,M,25–34,víkendový brunch,iOS aplikace,+420 7** *** 384,2026-09-28,misto,Praha 6,vracející se
+C0858,Filip,Kučera,M,25–34,kancelář – oběd,web,+420 6** *** 633,2026-09-24,miners-old-town,Praha 1,jednorázový
+C0859,Zuzana,Dostálová,Ž,25–34,student,iOS aplikace,+420 6** *** 740,2026-08-06,ema-espresso,Praha 1,vracející se
+C0860,Iveta,Tichá,Ž,25–34,víkendový brunch,web,+420 6** *** 471,2026-09-11,ema-espresso,Praha 1,vracející se
+C0861,Mikuláš,Veselý,M,25–34,student,iOS aplikace,+420 6** *** 736,2026-08-27,miners-victoria-palace,Praha 6,jednorázový
+C0862,Martin,Tichý,M,18–24,student,iOS aplikace,+420 6** *** 927,2026-07-13,miners-roastery,Praha 8,vracející se
+C0863,Veronika,Pokorná,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 951,2026-08-30,loka-doubleshot,Praha 1,vracející se
+C0864,Igor,Fiala,M,55+,odpolední pauza,iOS aplikace,+420 6** *** 810,2026-09-25,miners-port7,Praha 7,vracející se
+C0865,Rozálie,Doležalová,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 948,2026-04-16,ema-krizikova,Praha 8,vracející se
+C0866,Pavla,Marková,Ž,18–24,student,iOS aplikace,+420 7** *** 877,2026-09-08,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0867,Oliver,Janda,M,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 702,2026-09-20,basics-palladium-minus2,Praha 1,vracející se
+C0868,Robert,Sýkora,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 871,2026-08-21,miners-charles-bridge,Praha 1,jednorázový
+C0869,Vendula,Benešová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 6** *** 093,2026-04-18,cheecup,Praha 4,vracející se
+C0870,Tomáš,Dvořák,M,35–44,odpolední pauza,web,+420 6** *** 661,2026-04-17,globe-bookstore-cafe,Praha 1,vracející se
+C0871,Tomáš,Šindelář,M,25–34,kancelář – oběd,web,+420 7** *** 610,2026-05-10,industra-holesovice,Praha 7,vracející se
+C0872,Markéta,Vrbová,Ž,55+,odpolední pauza,web,+420 6** *** 758,2026-09-21,basics-palladium-plus2,Praha 1,jednorázový
+C0873,Josef,Brabec,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 196,2026-10-07,miners-roastery,Praha 8,vracející se
+C0874,Petra,Vrbová,Ž,45–54,víkendový brunch,web,+420 6** *** 183,2026-10-06,ema-komunardu,Praha 7,vracející se
+C0875,Václav,Říha,M,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 101,2026-05-13,miners-komunardu,Praha 7,vracející se
+C0876,Sára,Kučerová,Ž,45–54,kancelář – oběd,web,+420 7** *** 117,2026-05-28,roasters-hub,Praha 1,vracející se
+C0877,Daniela,Jandová,Ž,45–54,odpolední pauza,iOS aplikace,+420 7** *** 292,2026-08-15,cafe-nezisk-mamacoffee-pohorelec,Praha 1,jednorázový
+C0878,Jindřich,Novák,M,25–34,ranní dojíždějící,web,+420 6** *** 783,2026-07-13,ebel-coffee-farm,Praha 1,vracející se
+C0879,Dominik,Novák,M,45–54,víkendový brunch,iOS aplikace,+420 6** *** 138,2026-09-20,miners-karlin,Praha 8,jednorázový
+C0880,Adam,Procházka,M,45–54,ranní dojíždějící,web,+420 7** *** 887,2026-04-26,ema-krizikova,Praha 8,vracející se
+C0881,Igor,Vaněk,M,25–34,ranní dojíždějící,web,+420 7** *** 315,2026-06-06,kavarna-co-hleda-jmeno,Praha 5,vracející se
+C0882,Denis,Malý,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 964,2026-08-23,miners-bakery,Praha 8,jednorázový
+C0883,Vít,Polák,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 056,2026-08-24,miners-victoria-palace,Praha 6,jednorázový
+C0884,Jiří,Horák,M,18–24,student,iOS aplikace,+420 7** *** 338,2026-05-08,i-need-coffee,Praha 2,vracející se
+C0885,Pavla,Kolářová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 329,2026-08-20,miners-port7,Praha 7,vracející se
+C0886,Jaroslav,Němec,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 367,2026-06-28,cafe-neustadt,Praha 2,vracející se
+C0887,Vít,Zeman,M,18–24,student,iOS aplikace,+420 6** *** 418,2026-07-09,kolektor-cafe,Praha 7,vracející se
+C0888,Vendula,Charvátová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 697,2026-06-22,basics-palladium-plus2,Praha 1,vracející se
+C0889,Martina,Zemanová,Ž,35–44,kancelář – oběd,web,+420 7** *** 524,2026-10-06,miners-old-town,Praha 1,vracející se
+C0890,Jaroslav,Dušek,M,45–54,víkendový brunch,web,+420 6** *** 038,2026-08-29,miners-letna,Praha 7,jednorázový
+C0891,Patrik,Toman,M,25–34,ranní dojíždějící,web,+420 7** *** 045,2026-08-30,mamacoffee-londynska,Praha 2,vracející se
+C0892,Josef,Vaněk,M,18–24,student,web,+420 6** *** 582,2026-10-06,la-terra-coffee,Praha 2,jednorázový
+C0893,Karel,Sýkora,M,18–24,student,iOS aplikace,+420 7** *** 824,2026-05-21,yes-kafe-wine,Praha 8,vracející se
+C0894,Johana,Svobodová,Ž,25–34,víkendový brunch,web,+420 7** *** 652,2026-07-12,cheecup,Praha 4,vracející se
+C0895,Vendula,Novotná,Ž,25–34,kancelář – oběd,web,+420 7** *** 355,2026-04-22,ticha-kavarna,Praha 8,vracející se
+C0896,Jana,Blažková,Ž,25–34,odpolední pauza,web,+420 7** *** 118,2026-06-23,ema-espresso,Praha 1,vracející se
+C0897,Karolína,Skálová,Ž,25–34,student,iOS aplikace,+420 7** *** 244,2026-07-14,ema-komunardu,Praha 7,vracející se
+C0898,Jana,Hrubá,Ž,25–34,odpolední pauza,web,+420 6** *** 327,2026-09-01,i-need-coffee,Praha 2,jednorázový
+C0899,Daniel,Sedláček,M,35–44,kancelář – oběd,web,+420 6** *** 856,2026-06-30,monolok,Praha 2,vracející se
+C0900,Karolína,Kubíčková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 779,2026-10-12,bitcoin-coffee,Praha 7,jednorázový
+C0901,Igor,Řezníček,M,45–54,kancelář – oběd,web,+420 6** *** 583,2026-05-30,miners-bakery,Praha 8,vracející se
+C0902,Šárka,Vlčková,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 052,2026-06-22,miners-charles-bridge,Praha 1,vracející se
+C0903,Marek,Fiala,M,25–34,odpolední pauza,iOS aplikace,+420 6** *** 545,2026-06-14,kafemat,Praha 6,vracející se
+C0904,Nela,Kadlcová,Ž,18–24,student,web,+420 6** *** 668,2026-08-23,miners-komunardu,Praha 7,jednorázový
+C0905,Martina,Řezníčková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 973,2026-09-05,la-boheme-cafe,Praha 2,vracející se
+C0906,Martina,Černá,Ž,25–34,víkendový brunch,iOS aplikace,+420 6** *** 052,2026-08-27,version,Praha 2,vracející se
+C0907,Milan,Bláha,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 703,2026-04-22,miners-port7,Praha 7,vracející se
+C0908,Igor,Pavlík,M,25–34,víkendový brunch,iOS aplikace,+420 6** *** 329,2026-09-02,ema-komunardu,Praha 7,jednorázový
+C0909,Barbora,Musilová,Ž,35–44,kancelář – oběd,web,+420 7** *** 228,2026-05-15,miners-charles-bridge,Praha 1,vracející se
+C0910,Marie,Bednářová,Ž,35–44,odpolední pauza,iOS aplikace,+420 7** *** 426,2026-10-03,miners-jzp,Praha 2,vracející se
+C0911,Aneta,Vrbová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 222,2026-10-06,version,Praha 2,vracející se
+C0912,Mikuláš,Černý,M,25–34,kancelář – oběd,web,+420 6** *** 602,2026-06-16,miners-roastery,Praha 8,vracející se
+C0913,Nela,Charvátová,Ž,18–24,student,iOS aplikace,+420 6** *** 994,2026-08-27,version,Praha 2,jednorázový
+C0914,Antonín,Horák,M,45–54,kancelář – oběd,iOS aplikace,+420 7** *** 929,2026-09-20,cp1-cafe,Praha 1,vracející se
+C0915,Lucie,Urbanová,Ž,35–44,víkendový brunch,web,+420 7** *** 049,2026-06-12,miners-churchill,Praha 2,vracející se
+C0916,Mikuláš,Kadlec,M,25–34,kancelář – oběd,web,+420 7** *** 583,2026-07-14,ema-svetova,Praha 8,vracející se
+C0917,Hana,Holubová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 377,2026-08-24,ebel-coffee-farm,Praha 1,jednorázový
+C0918,Filip,Sedláček,M,35–44,kancelář – oběd,web,+420 7** *** 807,2026-05-19,bakeshop,Praha 1,vracející se
+C0919,Eliška,Němcová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 449,2026-06-30,espressocono,Praha 3,vracející se
+C0920,Matěj,Kadlec,M,55+,víkendový brunch,web,+420 7** *** 271,2026-10-06,basics-palladium-plus2,Praha 1,vracející se
+C0921,Johana,Sýkorová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 840,2026-09-22,miners-florentium,Praha 1,vracející se
+C0922,Linda,Kadlcová,Ž,25–34,ranní dojíždějící,web,+420 6** *** 732,2026-09-26,miners-bakery,Praha 8,jednorázový
+C0923,Hana,Lukášová,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 601,2026-10-01,kavarna-co-hleda-jmeno,Praha 5,jednorázový
+C0924,Michal,Mach,M,18–24,student,web,+420 7** *** 400,2026-10-03,cafe-neustadt,Praha 2,jednorázový
+C0925,Aleš,Brabec,M,18–24,student,iOS aplikace,+420 6** *** 641,2026-09-16,mamacoffee-londynska,Praha 2,jednorázový
+C0926,Vít,Šťastný,M,25–34,student,iOS aplikace,+420 6** *** 929,2026-08-06,miners-karlin,Praha 8,vracející se
+C0927,Nikola,Horová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 706,2026-09-19,globe-bookstore-cafe,Praha 1,vracející se
+C0928,Ema,Blažková,Ž,35–44,kancelář – oběd,web,+420 7** *** 755,2026-07-03,miners-karlin,Praha 8,vracející se
+C0929,Karolína,Novotná,Ž,25–34,student,web,+420 7** *** 788,2026-10-09,basics-palladium-minus2,Praha 1,jednorázový
+C0930,Robert,Pospíšil,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 693,2026-09-02,miners-karlin,Praha 8,vracející se
+C0931,Ladislav,Hájek,M,45–54,víkendový brunch,iOS aplikace,+420 7** *** 896,2026-05-27,kafemat,Praha 6,vracející se
+C0932,Lenka,Vlčková,Ž,35–44,víkendový brunch,web,+420 7** *** 993,2026-07-10,proste-kafe,Praha 10,vracející se
+C0933,Klára,Marková,Ž,25–34,student,iOS aplikace,+420 7** *** 491,2026-08-24,ema-svetova,Praha 8,jednorázový
+C0934,Zdeněk,Veselý,M,25–34,kancelář – oběd,web,+420 6** *** 101,2026-07-22,miners-maj,Praha 1,vracející se
+C0935,Bára,Bartošová,Ž,18–24,odpolední pauza,iOS aplikace,+420 7** *** 565,2026-09-11,ema-komunardu,Praha 7,vracející se
+C0936,Vít,Jelínek,M,18–24,ranní dojíždějící,iOS aplikace,+420 7** *** 968,2026-09-13,miners-bakery,Praha 8,vracející se
+C0937,Ema,Tichá,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 608,2026-09-28,kolektor-cafe,Praha 7,jednorázový
+C0938,Jana,Zemanová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 025,2026-09-06,miners-letna,Praha 7,vracející se
+C0939,Jana,Marešová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 185,2026-08-03,miners-victoria-palace,Praha 6,vracející se
+C0940,David,Bartoš,M,25–34,víkendový brunch,web,+420 7** *** 260,2026-05-16,miners-komunardu,Praha 7,vracející se
+C0941,Nela,Skálová,Ž,35–44,odpolední pauza,iOS aplikace,+420 6** *** 054,2026-07-25,ema-krizikova,Praha 8,vracející se
+C0942,Tereza,Mašková,Ž,18–24,student,iOS aplikace,+420 6** *** 862,2026-06-28,miners-karlin,Praha 8,vracející se
+C0943,Johana,Štěpánková,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 467,2026-10-07,miners-old-town,Praha 1,jednorázový
+C0944,Libor,Hanák,M,18–24,student,web,+420 7** *** 624,2026-09-09,miners-letna,Praha 7,jednorázový
+C0945,Dominik,Kratochvíl,M,45–54,víkendový brunch,iOS aplikace,+420 7** *** 728,2026-10-08,21-coffee,Praha 1,jednorázový
+C0946,Klára,Pokorná,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 503,2026-08-05,basics-palladium-minus2,Praha 1,vracející se
+C0947,Jaroslav,Kolář,M,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 518,2026-08-18,prosekarna,Praha 2,vracející se
+C0948,Pavla,Kratochvílová,Ž,25–34,ranní dojíždějící,web,+420 7** *** 967,2026-09-10,zen-espressobar,Praha 6,jednorázový
+C0949,David,Dušek,M,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 283,2026-06-19,miners-letna,Praha 7,vracející se
+C0950,Libor,Pavlík,M,45–54,ranní dojíždějící,iOS aplikace,+420 6** *** 361,2026-07-17,objekt-kafe,Praha 1,vracející se
+C0951,Viktorie,Veselá,Ž,18–24,student,web,+420 7** *** 363,2026-09-16,miners-bakery,Praha 8,vracející se
+C0952,Daniela,Pokorná,Ž,45–54,ranní dojíždějící,iOS aplikace,+420 7** *** 752,2026-08-27,miners-old-town,Praha 1,vracející se
+C0953,Karolína,Blažková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 353,2026-09-06,cafe-neustadt,Praha 2,jednorázový
+C0954,Petra,Kolářová,Ž,18–24,student,iOS aplikace,+420 7** *** 692,2026-09-20,cafeidoskop,Praha 1,vracející se
+C0955,Eva,Doležalová,Ž,25–34,student,iOS aplikace,+420 7** *** 372,2026-10-03,etapa,Praha 8,jednorázový
+C0956,Adéla,Šťastná,Ž,45–54,odpolední pauza,web,+420 6** *** 176,2026-09-09,loka-doubleshot,Praha 1,jednorázový
+C0957,Vojtěch,Konečný,M,35–44,kancelář – oběd,web,+420 6** *** 427,2026-05-15,miners-jzp,Praha 2,vracející se
+C0958,Sára,Kubíčková,Ž,25–34,odpolední pauza,web,+420 6** *** 447,2026-08-30,miners-churchill,Praha 2,jednorázový
+C0959,Zdeňka,Charvátová,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 840,2026-07-05,the-flat-cafe,Praha 10,vracející se
+C0960,Michaela,Sýkorová,Ž,18–24,student,iOS aplikace,+420 6** *** 071,2026-10-05,kolektor-cafe,Praha 7,jednorázový
+C0961,Igor,Svoboda,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 661,2026-07-12,coffee-room,Praha 2,vracející se
+C0962,Eva,Marešová,Ž,25–34,student,iOS aplikace,+420 6** *** 166,2026-09-30,mamacoffee-londynska,Praha 2,vracející se
+C0963,Miroslav,Bláha,M,45–54,odpolední pauza,iOS aplikace,+420 6** *** 059,2026-06-14,miners-maj,Praha 1,vracející se
+C0964,Linda,Procházková,Ž,18–24,student,iOS aplikace,+420 7** *** 980,2026-09-01,miners-letna,Praha 7,jednorázový
+C0965,Kamila,Brabcová,Ž,45–54,odpolední pauza,iOS aplikace,+420 6** *** 157,2026-09-24,miners-borislavka,Praha 6,jednorázový
+C0966,Alžběta,Jandová,Ž,35–44,odpolední pauza,web,+420 6** *** 831,2026-08-16,miners-charles-bridge,Praha 1,jednorázový
+C0967,Johana,Blažková,Ž,25–34,víkendový brunch,iOS aplikace,+420 7** *** 124,2026-09-19,prosekarna,Praha 2,jednorázový
+C0968,Marek,Havlíček,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 140,2026-10-06,pastacaffe,Praha 1,vracející se
+C0969,Petr,Marek,M,18–24,student,web,+420 6** *** 858,2026-08-20,mamacoffee-podolska,Praha 4,jednorázový
+C0970,Jakub,Urban,M,45–54,ranní dojíždějící,web,+420 7** *** 356,2026-06-06,miners-old-town,Praha 1,vracející se
+C0971,Kateřina,Lukášová,Ž,18–24,ranní dojíždějící,iOS aplikace,+420 6** *** 325,2026-09-07,mamacoffee-podolska,Praha 4,jednorázový
+C0972,Barbora,Kučerová,Ž,25–34,víkendový brunch,web,+420 7** *** 269,2026-09-21,ala-coffee,Praha 9,jednorázový
+C0973,Libor,Němec,M,25–34,kancelář – oběd,iOS aplikace,+420 6** *** 491,2026-07-07,miners-jzp,Praha 2,vracející se
+C0974,Petra,Holubová,Ž,45–54,ranní dojíždějící,web,+420 7** *** 829,2026-05-21,zrno-zrnko,Praha 5,vracející se
+C0975,Šimon,Soukup,M,35–44,víkendový brunch,web,+420 7** *** 262,2026-09-14,cafe-jen,Praha 10,jednorázový
+C0976,David,Novák,M,25–34,ranní dojíždějící,web,+420 6** *** 721,2026-09-14,mamacoffee-londynska,Praha 2,jednorázový
+C0977,Eva,Zelenková,Ž,35–44,kancelář – oběd,web,+420 7** *** 293,2026-07-29,basics-palladium-minus2,Praha 1,vracející se
+C0978,Jan,Čermák,M,35–44,odpolední pauza,iOS aplikace,+420 6** *** 128,2026-10-06,miners-port7,Praha 7,vracející se
+C0979,Jana,Hanáková,Ž,25–34,kancelář – oběd,web,+420 6** *** 933,2026-09-13,miners-churchill,Praha 2,jednorázový
+C0980,Michaela,Veselá,Ž,18–24,student,web,+420 7** *** 566,2026-05-21,miners-jzp,Praha 2,vracející se
+C0981,Julie,Bartošová,Ž,35–44,kancelář – oběd,iOS aplikace,+420 7** *** 647,2026-06-21,basics-borislavka,Praha 6,vracející se
+C0982,Ivana,Navrátilová,Ž,25–34,odpolední pauza,web,+420 6** *** 573,2026-09-18,miners-charles-bridge,Praha 1,jednorázový
+C0983,Nela,Sýkorová,Ž,18–24,student,iOS aplikace,+420 6** *** 126,2026-09-15,miners-jzp,Praha 2,vracející se
+C0984,Vojtěch,Dušek,M,25–34,kancelář – oběd,web,+420 7** *** 665,2026-05-23,ema-krizikova,Praha 8,vracející se
+C0985,Kamila,Soukupová,Ž,25–34,kancelář – oběd,web,+420 6** *** 632,2026-08-25,miners-karlin,Praha 8,vracející se
+C0986,Petra,Matoušková,Ž,25–34,ranní dojíždějící,web,+420 7** *** 887,2026-06-13,miners-maj,Praha 1,vracející se
+C0987,Nikola,Hrubá,Ž,25–34,odpolední pauza,iOS aplikace,+420 7** *** 433,2026-09-06,em3-coffee,Praha 5,vracející se
+C0988,Stanislav,Mach,M,25–34,odpolední pauza,iOS aplikace,+420 7** *** 780,2026-10-09,miners-florentium,Praha 1,jednorázový
+C0989,Václav,Kovář,M,25–34,ranní dojíždějící,iOS aplikace,+420 6** *** 249,2026-05-18,ema-krizikova,Praha 8,vracející se
+C0990,Sára,Řezníčková,Ž,25–34,kancelář – oběd,iOS aplikace,+420 7** *** 061,2026-09-30,miners-letna,Praha 7,jednorázový
+C0991,Hana,Kratochvílová,Ž,35–44,ranní dojíždějící,web,+420 6** *** 683,2026-10-03,miners-karlin,Praha 8,vracející se
+C0992,Martina,Charvátová,Ž,45–54,odpolední pauza,web,+420 7** *** 585,2026-09-10,cafe-peron,Praha 5,jednorázový
+C0993,Robert,Zelenka,M,35–44,ranní dojíždějící,iOS aplikace,+420 7** *** 203,2026-07-18,miners-maj,Praha 1,vracející se
+C0994,Zdeněk,Hronek,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 266,2026-09-19,ema-svetova,Praha 8,jednorázový
+C0995,Tereza,Burešová,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 483,2026-06-09,miners-karlin,Praha 8,vracející se
+C0996,Pavla,Dvořáková,Ž,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 641,2026-10-05,miners-port7,Praha 7,jednorázový
+C0997,Kristýna,Moravcová,Ž,45–54,kancelář – oběd,iOS aplikace,+420 6** *** 043,2026-05-18,basics-borislavka,Praha 6,vracející se
+C0998,Veronika,Bartošová,Ž,18–24,student,web,+420 6** *** 603,2026-09-04,kavarna-co-hleda-jmeno,Praha 5,jednorázový
+C0999,Hana,Malá,Ž,35–44,ranní dojíždějící,iOS aplikace,+420 6** *** 902,2026-10-06,mamacoffee-podolska,Praha 4,vracející se
+C1000,Roman,Mareš,M,25–34,ranní dojíždějící,iOS aplikace,+420 7** *** 778,2026-09-04,kafe-v-klidu,Praha 1,vracející se

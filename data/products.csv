@@ -1,0 +1,36 @@
+﻿product_id,product,category,base_price,is_combo
+deal-isic-latte,ISIC Latte 1+1,Komba,105,1
+deal-drink-sandwich,Nápoj + sandwich,Komba,149,1
+cappuccino,Cappuccino,Káva,95,0
+latte,Latte,Káva,105,0
+flat-white,Flat White,Káva,110,0
+chai-latte,Chai Latte,Káva,115,0
+cortado,Cortado,Káva,90,0
+hot-chocolate,Hot Chocolate,Káva,120,0
+espresso,Espresso,Káva,45,0
+iced-latte,Iced Latte,Ledová káva,125,0
+cold-brew,Cold Brew,Ledová káva,110,0
+espresso-tonic,Espresso Tonic,Ledová káva,120,0
+iced-matcha,Iced Matcha,Ledová káva,130,0
+matcha-latte,Matcha Latte,Matcha,135,0
+iced-matcha-mango,Iced Matcha Mango,Matcha,145,0
+iced-matcha-2,Iced Matcha,Matcha,130,0
+matcha-mango,Matcha Mango,Matcha,140,0
+green-tea,Green Tea,Čaj,65,0
+black-tea,Black Tea,Čaj,55,0
+syrniky,Syrniky,Jídlo,180,0
+cake,Cake,Jídlo,150,0
+sandwich,Sandwich,Jídlo,220,0
+croissant,Croissant,Jídlo,85,0
+chicken-wrap,Chicken Wrap,Jídlo,190,0
+pasta,Pasta,Jídlo,280,0
+salad,Salad,Jídlo,220,0
+pasta-carbonara,Pasta Carbonara,Jídlo,260,0
+tiramisu,Tiramisu,Jídlo,140,0
+bruschetta,Bruschetta,Jídlo,120,0
+bread,Fresh Bread,Jídlo,65,0
+danish,Danish,Jídlo,95,0
+muffin,Muffin,Jídlo,80,0
+chocolate-cake,Chocolate Cake,Jídlo,160,0
+brownie,Brownie,Jídlo,140,0
+cookie,Cookie,Jídlo,75,0

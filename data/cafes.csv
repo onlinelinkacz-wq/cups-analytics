@@ -1,0 +1,109 @@
+﻿cafe_id,name,chain,district,address,lat,lng,prep_minutes
+old-town-espresso,OLD TOWN ESPRESSO,nezávislá,Praha 1,"Staroměstské náměstí 15, Prague, Czech Republic",50.08756,14.42083,7
+roasters-hub,ROASTERS HUB,nezávislá,Praha 1,"Korunní 810/104, Prague, Czech Republic",50.07621,14.43765,8
+21-coffee,21 Coffee,nezávislá,Praha 1,"Prague, Czech Republic",50.08834,14.41977,5
+vnitroblock,VNITROBLOCK,nezávislá,Praha 7,"Tusarova 791/31, 170 00 Praha 7-Holešovice, Czech Republic",50.10194,14.44932,8
+pastacaffe,Pastacaffé,nezávislá,Praha 1,"Prague, Czech Republic",50.0845,14.4195,6
+bakeshop,Bakeshop,nezávislá,Praha 1,"Kozí 1, 110 00 Praha 1, Czech Republic",50.0873,14.4223,4
+cacao-prague,Cacao Prague,nezávislá,Praha 1,"V Celnici 1031/4, 110 00 Nové Město, Czech Republic",50.0881,14.43,7
+atomic-matcha,Atomic matcha,nezávislá,Praha 8,"Prvního pluku 144/14, 186 00 Praha 8-Karlín, Czech Republic",50.0922,14.4471,6
+bitcoin-coffee,Bitcoin Coffee,nezávislá,Praha 7,"Dělnická 475/43, 170 00 Praha 7-Holešovice, Czechia",50.1013,14.4309,8
+barry-higgel-coffeehouse,Barry Higgel's Coffeehouse,nezávislá,Praha 7,"Tusarova 25, 170 00 Praha 7-Holešovice, Czechia",50.0985,14.4326,6
+eska-restaurant-bakery,Eska Restaurant and Bakery,nezávislá,Praha 8,"Pernerova 49, 186 00 Praha 8-Karlín, Czechia",50.0925,14.4519,10
+etapa,Etapa,nezávislá,Praha 8,"Urxova 479/6, 186 00 Karlín, Czechia",50.0899,14.4508,9
+yes-kafe-wine,Ye's kafe | wine,nezávislá,Praha 8,"Za Karlínským přístavem 699/18, 186 00 Karlín, Czechia",50.0891,14.4564,7
+sicily-cafe,Sicily café,nezávislá,Praha 1,"Senovážné nám. 994/2, 110 00 Nové Město, Czechia",50.083,14.428,8
+miners-jzp,The Miners JZP,The Miners,Praha 2,"Slavíkova 1611/5, 120 00 Praha",50.07875,14.44815,6
+miners-churchill,The Miners Churchill,The Miners,Praha 2,"Italská 2584/69, 120 00 Praha",50.08469,14.44033,6
+miners-old-town,The Miners Old Town,The Miners,Praha 1,"Železná 490/14, 110 00 Praha",50.08646,14.422,6
+miners-borislavka,The Miners Bořislavka,The Miners,Praha 6,"Evropská 866/71, 160 00 Praha",50.09841,14.36539,6
+miners-roastery,The Miners Roastery,The Miners,Praha 8,"Boudníkova 2538/11, 180 00 Praha",50.10407,14.46629,6
+miners-bakery,The Miners Bakery,The Miners,Praha 8,"Sokolovská 713/111a, 186 00 Praha",50.09621,14.46005,6
+miners-charles-bridge,The Miners Charles Bridge,The Miners,Praha 1,"Lázeňská 282/19, 118 00 Praha",50.08717,14.406,6
+miners-letna,The Miners Letná,The Miners,Praha 7,"Milady Horákové 684/16, 170 00 Praha",50.09939,14.43096,6
+miners-maj,The Miners Máj,The Miners,Praha 1,"Národní 63/26, 110 00 Praha",50.08231,14.41948,6
+miners-victoria-palace,The Miners Victoria Palace,The Miners,Praha 6,"Vítězné náměstí 1145/8, 160 00 Praha",50.10158,14.39588,6
+miners-port7,The Miners Port7,The Miners,Praha 7,"Pod Dráhou 1637/2, 170 00 Praha",50.11108,14.44009,6
+miners-komunardu,The Miners Komunardů,The Miners,Praha 7,"Komunardů 1626/35, 170 00 Praha",50.10432,14.44969,6
+miners-karlin,The Miners Karlín,The Miners,Praha 8,"Sokolovská 130/52, 186 00 Praha",50.09237,14.4443,6
+miners-florentium,The Miners Florentium,The Miners,Praha 1,"Na Florenci 2116/15, 110 00 Praha",50.08887,14.43519,6
+ema-espresso,EMA espresso bar Na Florenci,EMA espresso bar,Praha 1,"Na Florenci 1420/3, 110 00 Praha",50.08875,14.4337,5
+ema-svetova,EMA espresso bar Světova,EMA espresso bar,Praha 8,"Světova 454/2, 180 00 Praha",50.10579,14.47311,5
+ema-krizikova,EMA espresso bar Křižíkova,EMA espresso bar,Praha 8,"Thámova 289/13, 186 00 Praha",50.09236,14.45216,5
+ema-komunardu,EMA espresso bar Komunardů,EMA espresso bar,Praha 7,"Komunardů 1584/42, 170 00 Praha",50.10587,14.45012,5
+basics-palladium-minus2,Basics Coffee Palladium (patro −2),Basics Coffee,Praha 1,"náměstí Republiky 1078/1, 110 00 Praha",50.08912,14.42871,5
+basics-palladium-plus2,Basics Coffee Palladium (patro +2),Basics Coffee,Praha 1,"náměstí Republiky 1078/1, 110 00 Praha",50.08912,14.42871,5
+basics-borislavka,Basics Coffee Bořislavka,Basics Coffee,Praha 6,"Evropská 866/65, 160 00 Praha",50.09849,14.36655,5
+prazirna,Pražírna,nezávislá,Praha 2,"Lublaňská 676/50, 120 00 Praha",50.0749,14.43133,7
+kavarna-slavia,Kavárna Slavia,nezávislá,Praha 1,"Smetanovo nábřeží 1012/2, 110 00 Praha",50.08154,14.41324,7
+dobra-trafika,Dobrá trafika,nezávislá,Praha 1,"Újezd 400/37, 118 00 Praha",50.08398,14.40423,7
+muj-salek-kavy,Můj šálek kávy,nezávislá,Praha 8,"Křižíkova 386/105, 186 00 Praha",50.09352,14.45516,7
+grand-cafe-orient,Grand Café Orient,nezávislá,Praha 1,"Ovocný trh 569/19, 110 00 Praha",50.087,14.42552,7
+monolok,Monolok,nezávislá,Praha 2,"Moravská 18, 120 00 Praha",50.07432,14.44298,7
+kaaba,Kaaba,nezávislá,Praha 2,"Mánesova 1624/20, 120 00 Praha",50.07857,14.43705,7
+kavarna-lucerna,Kavárna Lucerna,nezávislá,Praha 1,"Vodičkova 704/36, 110 00 Praha",50.08119,14.42572,7
+cafe-neustadt,Café Neustadt,nezávislá,Praha 2,"Karlovo náměstí 1/23, 120 00 Praha",50.0784,14.42093,7
+mistral-cafe,Mistral Café,nezávislá,Praha 1,"Valentinská 56/11, 110 00 Praha",50.08831,14.41629,7
+cafe-ebel-kaprova,Café Ebel Kaprová,nezávislá,Praha 1,"Kaprova 15/11, 110 00 Praha",50.08816,14.41829,7
+ebel-coffee-farm,Ebel Coffee Farm,nezávislá,Praha 1,"Bartolomějská 305/3, 110 00 Praha",50.08239,14.41586,7
+misto,Místo,nezávislá,Praha 6,"Bubenečská 12, 160 00 Praha",50.09903,14.40441,7
+coffee-room,Coffee Room,nezávislá,Praha 2,"Korunní 1208, 120 00 Praha",50.07525,14.45129,7
+kavarna-co-hleda-jmeno,Kavárna co hledá jméno,nezávislá,Praha 5,"Stroupežnického 493/10, 150 00 Praha",50.06979,14.404,7
+kafe-karlin,Kafe Karlín,nezávislá,Praha 8,"Sokolovská 46/51, 186 00 Praha",50.0929,14.44578,7
+cafe-jen,Café Jen,nezávislá,Praha 10,"Kodaňská 553/37, 101 00 Praha",50.07136,14.45586,7
+cafe-rybka,Café Rybka,nezávislá,Praha 1,"Opatovická 1315/7, 110 00 Praha",50.07951,14.41702,7
+kafe-francin,Kafe Francin,nezávislá,Praha 7,"Dukelských hrdinů 692/35, 170 00 Praha",50.09932,14.4331,7
+bistro-monk,Bistro Monk,nezávislá,Praha 1,"Michalská 20, 110 00 Praha",50.08582,14.42001,7
+industra-holesovice,Industra Coffee Holešovice,nezávislá,Praha 7,"Veletržní 404/6, 170 00 Praha",50.10263,14.43523,7
+coffee-source,Coffee Source,nezávislá,Praha 2,"Francouzská 156/106, 120 00 Praha",50.07186,14.44967,7
+loka-doubleshot,LOKA Masaryčka by Doubleshot,nezávislá,Praha 1,"Na Florenci 2139, 110 00 Praha",50.08849,14.43406,7
+ala-coffee,Ala Coffee,nezávislá,Praha 9,"K Žižkovu 495/8, 190 00 Praha",50.10169,14.5034,7
+cafe-nezisk-mamacoffee-pohorelec,Café Nezisk (mamacoffee Pohořelec),mamacoffee,Praha 1,"Pohořelec 153/2, 118 00 Praha",50.08756,14.39022,7
+prosekarna,Prosekárna,nezávislá,Praha 2,"Slezská 1345/48, 120 00 Praha",50.07617,14.44527,7
+moment-cafe,Moment Cafe,nezávislá,Praha 2,"Slezská 2315/62, 120 00 Praha",50.07616,14.44729,7
+corner-stories,Corner Stories,nezávislá,Praha 10,"Ruská 460/18, 101 00 Praha",50.07199,14.45285,7
+narodni-kavarna,Národní kavárna,nezávislá,Praha 1,"Národní 339/11, 110 00 Praha",50.08173,14.41612,7
+globe-bookstore-cafe,Globe Bookstore & Café,nezávislá,Praha 1,"Pštrossova 6, 110 00 Praha",50.07805,14.41643,7
+kafemat,Kafemat,nezávislá,Praha 6,"Dejvická 3, 160 00 Praha",50.09791,14.40069,7
+u-knoflicku,U Knoflíčků,nezávislá,Praha 1,"U lanové dráhy 412/1, 118 00 Praha",50.08264,14.40431,7
+ippa-cafe,IPPA Café,nezávislá,Praha 6,"Bělohorská 724/134, 169 00 Praha",50.08383,14.36333,7
+cp1-cafe,CP1 Café,nezávislá,Praha 1,"Konviktská 291/24, 110 00 Praha",50.08359,14.41735,7
+cafeidoskop,Caféidoskop,nezávislá,Praha 1,"Lazarská 8, 110 00 Praha",50.0789,14.42138,7
+mamacoffee-podolska,mamacoffee Podolská,mamacoffee,Praha 4,"Podolská 241/23, 147 00 Praha",50.05858,14.42097,7
+ticha-kavarna,Tichá kavárna,nezávislá,Praha 8,"Burešova 1151/12, 182 00 Praha",50.12991,14.46873,7
+mamacoffee-londynska,mamacoffee Londýnská,mamacoffee,Praha 2,"Londýnská 49, 120 00 Praha",50.07403,14.43378,7
+periferie-cafe,Periferie Cafe,nezávislá,Praha 4,"Branická 49, 147 00 Praha",50.03703,14.4124,7
+cafefin,Cafefin,nezávislá,Praha 2,"náměstí Jiřího z Poděbrad 1407/4, 120 00 Praha",50.07816,14.44839,7
+kavarna-muzeum,Kavárna Muzeum,nezávislá,Praha 1,"Vinohradská 1, 110 00 Praha",50.07992,14.43195,7
+em3-coffee,eM3 Coffee,nezávislá,Praha 5,"Geologická 1225/25, 152 00 Praha",50.03539,14.38675,7
+cafedu,Cafedu,nezávislá,Praha 2,"Škrétova 490/12, 120 00 Praha",50.07873,14.43259,7
+i-need-coffee,I Need Coffee!,nezávislá,Praha 2,"Na Moráni 1958/7, 120 00 Praha",50.0736,14.41621,7
+cas,Kavárna Čas,nezávislá,Praha 1,"U lužického semináře 92/15, 118 00 Praha",50.08774,14.40856,7
+objekt-kafe,Objekt kafe,nezávislá,Praha 1,"Branická 224/73, Praha",50.03535,14.4146,7
+tynska-literarni-kavarna,Týnská literární kavárna,nezávislá,Praha 1,"Týnská 630/6, 110 00 Praha",50.08837,14.42346,7
+la-terra-coffee,La Terra Coffee,nezávislá,Praha 2,"Vyšehradská 22, 128 00 Praha",50.07141,14.41894,7
+slagr,Šlágr,nezávislá,Praha 10,"Francouzská 563/72, 101 00 Praha",50.07195,14.44573,7
+cheecup,Cheecup,nezávislá,Praha 4,"Nedvědovo náměstí 14, 147 00 Praha",50.0567,14.42094,7
+la-boheme-cafe,La Bohème Café,nezávislá,Praha 2,"Sázavská 2031/32, 120 00 Praha",50.07681,14.44078,7
+version,Version Coffee,nezávislá,Praha 2,"Anglická 15, 120 00 Praha",50.07676,14.43339,7
+elvira-cafe,Elvíra café,nezávislá,Praha 5,"Zborovská 19, 150 00 Praha",50.07621,14.40725,7
+proste-kafe,Prostě Kafe,nezávislá,Praha 10,"Kodaňská 53, 101 00 Praha",50.07098,14.45875,7
+kafe-v-klidu,Kafe v Klidu,nezávislá,Praha 1,"V Jirchářích 149/6, 110 00 Praha",50.0799,14.416,7
+kolektor-cafe,Kolektor Cafe,nezávislá,Praha 7,"Dukelských hrdinů 530/47, 170 00 Praha",50.10111,14.43267,7
+one-sip-coffee,One Sip Coffee,nezávislá,Praha 1,"Haštalská 755/15, 110 00 Praha",50.09131,14.42544,7
+letka,Letka,nezávislá,Praha 7,"Letohradská 44, 170 00 Praha",50.09819,14.42536,7
+kofarna-cafe,Kofarna Café,nezávislá,Praha 5,"Zborovská 84/60, 150 00 Praha",50.08021,14.40719,7
+cafe-perfect-day,Cafe Perfect Day,nezávislá,Praha 6,"Kafkova 20, 160 00 Praha",50.09899,14.39686,7
+ollivers-coffee-cup,Olliver's Coffee Cup,nezávislá,Praha 1,"Václavské náměstí 804/26, 110 00 Praha",50.07986,14.42906,7
+cafe-tone,Cafe Tone,nezávislá,Praha 5,"Lidická 796/20, 150 00 Praha",50.07249,14.40732,7
+borzoi,Borzoi,nezávislá,Praha 6,"Zelená 7, 160 00 Praha",50.10689,14.39524,7
+espressocono,Espressocono,nezávislá,Praha 3,"náměstí Jiřího z Poděbrad 1023/14, 130 00 Praha",50.07846,14.45201,7
+the-flat-cafe,The FLAT cafe,nezávislá,Praha 10,"Kodaňská 81/4, 101 00 Praha",50.07109,14.45134,7
+kkafe,KKAFE,nezávislá,Praha 1,"Střelecký ostrov 336, 110 00 Praha",50.0806,14.41052,7
+kavarna-tika,Kavárna Tika,nezávislá,Praha 8,"Křižíkova 703/97D, 186 00 Praha",50.09385,14.45442,7
+zen-espressobar,Zen Espressobar,nezávislá,Praha 6,"Radimova 25, 169 00 Praha",50.08741,14.36753,7
+spell-coffee,Spell Coffee,nezávislá,Praha 1,"Jindřišská 20, Praha",50.08379,14.42908,7
+light-roast,Light roast,nezávislá,Praha 8,"Smrčkova 2485/4, 180 00 Praha",50.10474,14.46886,7
+zrno-zrnko,Zrno Zrnko,nezávislá,Praha 5,"Toyen 3410/7, 150 00 Praha",50.06775,14.40397,7
+cafe-peron,Café Perón,nezávislá,Praha 5,"Stroupežnického 525/20, 150 00 Praha",50.07075,14.40313,7
+cross-cafe,Cross Cafe,nezávislá,Praha 8,"Křižíkova 344/6, 186 00 Praha",50.08977,14.44067,7
